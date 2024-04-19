@@ -7,6 +7,7 @@
     padding: 6.5rem 0 7.8rem 6rem;
     /* width: 90rem; */
     box-sizing: border-box;
+    overflow: hidden;
   }
   .landing-page-1 .ellipse-116 {
     position: absolute;
@@ -27,9 +28,11 @@
 .landing-page-1 .frame-179 {
     position: relative;
     display: flex;
+    width: 60%;
     flex-direction: column;
     align-items: center;
     box-sizing: border-box;
+    white-space: normal;
   }
   
 

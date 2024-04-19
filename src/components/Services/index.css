@@ -86,6 +86,7 @@
     padding:0rem 6.5rem 0.4rem 6.5rem;
     /* width: 90.3rem; */
     box-sizing: border-box;
+    overflow: hidden;
     height: 480px;
     display: flex;
     justify-content: space-between;
@@ -157,17 +158,20 @@
     line-height: 1.5;
     color: var(--neutral-1, #F2F6FF);
   }
-  .landing-page-1 .services-62 {
+  .landing-page-1 .services-3 {
     background: var(--bgggg, #F3FFFB);
-    display: flex;
-    flex-direction: row;
+overflow: hidden;
+    /* flex-direction: row; */
     padding: 6.6rem 8.8rem 0 6.5rem;
-    width: fit-content;
-    box-sizing: border-box;
+    position: relative;
+    /* margin-bottom: 7.8rem; */
+    height: 480px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
   }
   
 .landing-page-1 .content-3 {
-    margin: 0 8.7rem 8.6rem 0;
+    /* margin: 0 8.7rem 8.6rem 0; */
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
@@ -178,10 +182,13 @@
     flex-direction: column;
     /* width: fit-content; */
     box-sizing: border-box;
+    white-space: normal;
+
   }
-  .landing-page-1 .expense-tracking-and-transaction-recording {
+  .landing-page-1 .services3-title {
     margin-bottom: 1.5rem;
     display: inline-block;
+    white-space: normal;
     align-self: flex-start;
     overflow-wrap: break-word;
     font-family: var(--heading-h-2-font-family, 'Roboto');
@@ -198,7 +205,7 @@
     width: 9.4rem;
     height: 0.4rem;
   }
-  .landing-page-1 .users-can-categorize-their-expenses-into-different-groupse-ggroceries-entertainment-utilities-and-providing-instant-updates-on-transactions-to-help-users-stay-on-top-of-their-spending-and-our-features-allows-users-input-individuals-transactions-specifying-financial-goals-and-providing-insights-into-spending-patrerns-and-financial-health {
+  .services3-desc {
     overflow-wrap: break-word;
     font-family: 'Lato';
     font-weight: 400;
@@ -228,7 +235,13 @@
   .landing-page-1 .budget-11 {
     background: url('../../../public/images/Budget2.png') 50% / cover no-repeat;
     width: 27.6rem;
-    height: 55.1rem;
+    /* height: 55.1rem; */
+    position: absolute;
+    top: 7rem;
+    right: 2.1rem;
+    bottom: 0.7rem;
+    height: 55.2rem;
+   
   }
   .landing-page-1 .frame-427320700 {
     border-radius: 7.6rem;
@@ -467,8 +480,7 @@
     left: 0rem;
     top: 0rem;
     right: 0rem;
-    bottom: 0rem;
-    height: 100%;
+   
   }
   .landing-page-1 .create-budget {
     border-top-left-radius: 5%;

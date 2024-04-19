@@ -11,7 +11,7 @@
 
   .landing-page-1 .hero-text {
     display: flex;
-    width: 50%;
+    /* width: 50%; */
     flex-direction: column;
     box-sizing: border-box;
   
@@ -57,7 +57,7 @@
     font-size: 3rem;
     line-height: 1.333;
   }
-  .landing-page-1 .hero-text-section {
+  -section {
     overflow-wrap: break-word;
     font-family: 'Plus Jakarta Sans';
     font-weight: 400;

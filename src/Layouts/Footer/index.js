@@ -9,10 +9,10 @@ const Footer = () => {
         <div className="newsletter">
           <div className="black-logo-no-background-3">
             <div className="svgjs-g-2232">
-              <img className="shape" src="assets/vectors/Shape1_x2.svg" alt="Shape" />
+              <img className="shape" src="images/logo-name.png" alt="Shape" />
             </div>
             <div className="svgjs-g-2233">
-              <img className="vector" src="assets/vectors/Vector58_x2.svg" alt="Vector" />
+              <img className="vector" src="images/logo.png" alt="Vector" />
             </div>
           </div>
           <div className="text">
@@ -108,7 +108,7 @@ const Footer = () => {
             <div className="social-links">
               <div className="link-20">
                 <div className="icon-facebook">
-                  <img className="vector-14" src="assets/vectors/Vector98_x2.svg" alt="Facebook" />
+                  <img className="vector-14" src="images/facebook.png" alt="Facebook" />
                 </div>
                 <span className="facebook">
                   Facebook
@@ -116,7 +116,7 @@ const Footer = () => {
               </div>
               <div className="link-21">
                 <div className="icon-instagram">
-                  <img className="vector-15" src="assets/vectors/Vector111_x2.svg" alt="Instagram" />
+                  <img className="vector-15" src="images/instagram.png" alt="Instagram" />
                 </div>
                 <span className="instagram">
                   Instagram
@@ -124,7 +124,7 @@ const Footer = () => {
               </div>
               <div className="link-22">
                 <div className="icon-x">
-                  <img className="vector-16" src="assets/vectors/Vector18_x2.svg" alt="X" />
+                  <img className="vector-16" src="images/twiter.png" alt="X" />
                 </div>
                 <span className="x">
                   X
@@ -132,7 +132,7 @@ const Footer = () => {
               </div>
               <div className="link-23">
                 <div className="icon-linked-in">
-                  <img className="vector-17" src="assets/vectors/Vector56_x2.svg" alt="LinkedIn" />
+                  <img className="vector-17" src="images/linkedin.png" alt="LinkedIn" />
                 </div>
                 <span className="linked-in">
                   LinkedIn
@@ -140,7 +140,7 @@ const Footer = () => {
               </div>
               <div className="link-24">
                 <div className="icon-youtube">
-                  <img className="vector-18" src="assets/vectors/Vector88_x2.svg" alt="Youtube" />
+                  <img className="vector-18" src="images/youtube.png" alt="Youtube" />
                 </div>
                 <span className="youtube">
                   Youtube

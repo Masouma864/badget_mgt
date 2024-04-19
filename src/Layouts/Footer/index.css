@@ -1,30 +1,28 @@
 .landing-page-1 .frame-427320759 {
     background: var(--primaryprimary-700, #046B4B);
     display: inline-block;
-    
-    flex-direction: column;
-    padding: 5.5rem 0 2.5rem 7rem;
+    /* padding: 5.5rem 7rem 2.5rem 7rem; */
     box-sizing: border-box;
-    height: Hug (48px)px; /* This line seems incorrect. Adjust as necessary. */
-    top: 26px;
-    left: 101px;
-    gap: 0px;
-    justify-content: space-between;
+    padding-bottom: 3rem;
+    height: Hug (48px)px; 
+
   }
   
 .landing-page-1 .card {
-    margin-bottom: 2.3rem;
+    /* margin-bottom: 2.3rem; */
     display: flex;
     flex-direction: row;
     align-self: flex-start;
-    /* width: fit-content; */
+    padding: 5rem 5rem 2rem 5rem;
     box-sizing: border-box;
   }
   .landing-page-1 .newsletter {
     margin: 0.6rem 8rem 0.3rem 0;
     display: flex;
     flex-direction: column;
+    width: 45%;
     box-sizing: border-box;
+    white-space: normal;
   }
   .landing-page-1 .black-logo-no-background-3 {
     margin-bottom: 1.5rem;
@@ -67,6 +65,7 @@
     justify-content: space-between;
     align-self: flex-start;
     width: 72.3rem;
+    margin-left: 5rem;
     box-sizing: border-box;
   }
   .landing-page-1 .text-2 {
@@ -312,7 +311,7 @@
   .landing-page-1 .actions {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    /* align-items: center; */
     /* width: fit-content; */
     box-sizing: border-box;
   }
@@ -361,7 +360,7 @@
     box-sizing: border-box;
   }
   .landing-page-1 .column {
-    margin: 0 7.9rem 0.8rem 0;
+    margin: 0 5.9rem 0.8rem 0;
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
@@ -464,7 +463,7 @@
   }
   
 .landing-page-1 .column-1 {
-    margin: 0 6.1rem 0.8rem 0;
+    margin: 0 5.1rem 0.8rem 0;
     display: flex;
     flex-direction: column;
     box-sizing: border-box;

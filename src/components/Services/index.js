@@ -360,15 +360,15 @@ const Services = () => {
         </div>
         
       </div>
-      <div className="services-62">
+      <div className="services-3">
         <div className="content-3">
           <div className="section-title-1">
-            <div className="expense-tracking-and-transaction-recording">
+            <div className="services3-title">
               Expense Tracking and Transaction Recording
             </div>
             <div className="rectangle-781">
             </div>
-            <span className="users-can-categorize-their-expenses-into-different-groupse-ggroceries-entertainment-utilities-and-providing-instant-updates-on-transactions-to-help-users-stay-on-top-of-their-spending-and-our-features-allows-users-input-individuals-transactions-specifying-financial-goals-and-providing-insights-into-spending-patrerns-and-financial-health">
+            <span className="services3-desc">
               Users can categorize their expenses into different groups (e.g., groceries, entertainment, utilities) and Providing instant updates on transactions to help users stay on top of their spending and our features  allows users input individuals transactions specifying financial goals and providing insights into spending patrerns and financial health
             </span>
           </div>
