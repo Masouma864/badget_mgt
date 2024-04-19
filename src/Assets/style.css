@@ -1,0 +1,6084 @@
+/* landing page */
+.landing-page{
+    position: relative;
+width: 393px;
+height: 4551px;
+
+background: #F3FFFB;
+}
+
+
+
+/* Native / Status Bar */
+.status-bar{
+    position: absolute;
+    height: 44px;
+    left: 0px;
+    right: 0px;
+    top: 0px;  
+}
+
+
+
+/* 9:41 */
+
+position: absolute;
+width: 33px;
+height: 16px;
+left: 30px;
+top: calc(50% - 16px/2 + 2px);
+
+/* Regular/None/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+/* Ink/Darkest */
+color: #090A0A;
+
+
+
+/* Mobile Signal */
+
+position: absolute;
+width: 18px;
+height: 10px;
+left: 306px;
+top: 20.5px;
+
+
+
+/* Mobile Signal */
+
+position: absolute;
+left: 77.86%;
+right: 17.56%;
+top: 46.59%;
+bottom: 30.68%;
+
+/* Ink/Darkest
+
+Master text
+*/
+background: #090A0A;
+
+
+/* Cellular_Connection-path */
+
+position: absolute;
+width: 3px;
+height: 4px;
+right: 84px;
+top: calc(50% - 4px/2 + 6.5px);
+
+background: #DADADA;
+
+
+/* Cellular_Connection-path */
+
+position: absolute;
+width: 3px;
+height: 6px;
+right: 79px;
+top: calc(50% - 6px/2 + 5.5px);
+
+background: #DADADA;
+
+
+/* Cellular_Connection-path */
+
+position: absolute;
+width: 3px;
+height: 8px;
+right: 74px;
+top: calc(50% - 8px/2 + 4.5px);
+
+background: #DADADA;
+
+
+/* Cellular_Connection-path */
+
+position: absolute;
+width: 3px;
+height: 10px;
+right: 69px;
+top: calc(50% - 10px/2 + 3.5px);
+
+background: #DADADA;
+
+
+/* Wifi */
+
+position: absolute;
+width: 15.27px;
+height: 10.97px;
+left: 329px;
+top: 19px;
+
+
+
+/* Union */
+
+position: absolute;
+width: 15.27px;
+height: 10.97px;
+left: 329px;
+top: 19px;
+
+/* Ink/Darkest
+
+Master text
+*/
+background: #090A0A;
+
+
+/* Wifi-path */
+
+position: absolute;
+width: 15.27px;
+height: 4.74px;
+right: 48.73px;
+top: calc(50% - 4.74px/2 - 0.63px);
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+width: 9.95px;
+height: 3.63px;
+right: 51.39px;
+top: calc(50% - 3.63px/2 + 2.61px);
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+width: 4.63px;
+height: 3.37px;
+right: 54.05px;
+top: calc(50% - 3.37px/2 + 6.28px);
+
+background: #000000;
+
+
+/* Battery */
+
+position: absolute;
+width: 26.98px;
+height: 13px;
+left: 350px;
+top: 18px;
+
+
+
+/* Battery */
+
+position: absolute;
+left: 89.06%;
+right: 4.08%;
+top: 40.91%;
+bottom: 29.55%;
+
+
+
+/* Rectangle */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 25px;
+height: 13px;
+right: 18px;
+top: calc(50% - 13px/2 + 2.5px);
+
+mix-blend-mode: normal;
+opacity: 0.35;
+/* Ink/Darkest
+
+Master text
+*/
+border: 1px solid #090A0A;
+border-radius: 2.66667px;
+
+
+/* Combined Shape */
+
+position: absolute;
+width: 1.33px;
+height: 4px;
+right: 16.02px;
+top: calc(50% - 4px/2 + 3px);
+
+/* Ink/Darkest
+
+Master text
+*/
+background: #090A0A;
+mix-blend-mode: normal;
+opacity: 0.4;
+
+
+/* Rectangle */
+
+position: absolute;
+width: 20.2px;
+height: 8.33px;
+right: 20.5px;
+top: calc(50% - 8.33px/2 + 2.5px);
+
+/* Ink/Darkest
+
+Master text
+*/
+background: #090A0A;
+border-radius: 1.33333px;
+
+
+/* Hero section */
+
+position: absolute;
+width: 393px;
+height: 541px;
+left: 0px;
+top: 44px;
+
+background: #F3FFFB;
+
+
+/* Frame 1000004155 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+gap: 152px;
+
+position: absolute;
+width: 357px;
+height: 48px;
+left: calc(50% - 357px/2);
+top: 20px;
+
+
+
+/* Black logo - no background 2 */
+
+margin: 0 auto;
+width: 156.89px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: -6.79%;
+right: 17.58%;
+top: 22.64%;
+bottom: 22.86%;
+
+
+
+/* SvgjsG2232 */
+
+position: absolute;
+left: -6.79%;
+right: 86.38%;
+top: 22.64%;
+bottom: 22.86%;
+
+
+
+/* Page-1 */
+
+position: absolute;
+left: -6.79%;
+right: 86.38%;
+top: 22.64%;
+bottom: 22.86%;
+
+
+
+/* Artboard */
+
+position: absolute;
+left: -6.79%;
+right: 86.38%;
+top: 22.64%;
+bottom: 22.86%;
+
+
+
+/* Asset-6LETTERS1 */
+
+position: absolute;
+left: -6.79%;
+right: 86.38%;
+top: 22.64%;
+bottom: 22.86%;
+
+
+
+/* Shape */
+
+position: absolute;
+left: -6.79%;
+right: 86.38%;
+top: 22.64%;
+bottom: 22.86%;
+
+/* primary */
+background: #05976A;
+
+
+/* SvgjsG2233 */
+
+position: absolute;
+left: 24.12%;
+right: 17.58%;
+top: 36.79%;
+bottom: 35.42%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 24.12%;
+right: 17.58%;
+top: 36.79%;
+bottom: 35.42%;
+
+/* primary */
+background: #05976A;
+
+
+/* menu-11 */
+
+margin: 0 auto;
+width: 28px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.67%;
+right: 16.67%;
+top: 50%;
+bottom: 50%;
+
+border: 1.75px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 20.83%;
+bottom: 79.17%;
+
+border: 1.75px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 79.17%;
+bottom: 20.83%;
+
+border: 1.75px solid #000000;
+
+
+/* Frame 1000004154 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+position: absolute;
+width: 356px;
+height: 165px;
+left: calc(50% - 356px/2 - 0.5px);
+top: 100px;
+
+
+
+/* The Ultimate Budgeting Companion */
+
+width: 366px;
+height: 72px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 130%;
+/* or 36px */
+text-align: center;
+
+/* Dark */
+color: #0E110D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Seamlessly manage your funds , cut cost, manage your business easily and secure your finances where every penny counts . */
+
+width: 360px;
+height: 81px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+text-align: center;
+
+/* Dark */
+color: #0E110D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* CTA */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 20px;
+
+position: absolute;
+width: 280px;
+height: 132px;
+left: calc(50% - 280px/2 + 0.5px);
+top: 329px;
+
+
+
+/* Frame 10 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+width: 280px;
+height: 56px;
+
+/* primary */
+background: #05976A;
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Download App */
+
+width: 106px;
+height: 24px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* cta */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 10px 10px 5px;
+gap: 10px;
+
+width: 280px;
+height: 56px;
+
+/* primary/primary-500 */
+border: 1px solid #05976A;
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* octicon:play-24 */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 39.58%;
+right: 33.02%;
+top: 32.99%;
+bottom: 32.98%;
+
+/* primary/primary-500 */
+background: #05976A;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 4.17%;
+bottom: 4.17%;
+
+/* primary/primary-500 */
+background: #05976A;
+
+
+/* Play Demo */
+
+width: 77px;
+height: 24px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* primary/primary-500 */
+color: #05976A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1000004156 */
+
+position: absolute;
+width: 393px;
+height: 669px;
+left: -1px;
+top: 585px;
+
+background: #FFFFFF;
+
+
+/* mission cta */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 36px;
+gap: 10px;
+
+position: absolute;
+width: 141px;
+height: 44px;
+left: 26px;
+top: 553px;
+
+/* primary */
+background: #05976A;
+border-radius: 32px;
+
+
+/* Learn More */
+
+width: 81px;
+height: 24px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* neutral 1 */
+color: #F2F6FF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Learn More About Our Missions */
+
+position: absolute;
+width: 302px;
+height: 68px;
+left: 26px;
+top: 307px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 120%;
+/* or 34px */
+
+/* Text dark */
+color: #333333;
+
+
+
+/* Fundnook is a budgetting App whoose mission is to that help individuals and businesses manage their finances effectively by providing tools and features that assist with budgeting, tracking expenses, and achieving financial goals. */
+
+position: absolute;
+width: 352px;
+height: 130px;
+left: 26px;
+top: 391px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 160%;
+/* or 26px */
+
+/* Text dark */
+color: #333333;
+
+
+
+/* mission pic */
+
+position: absolute;
+width: 341px;
+height: 256px;
+left: 26px;
+top: 27px;
+
+background: url(.jpg);
+border-radius: 10.716px;
+
+
+/* Frame 1000004161 */
+
+position: absolute;
+width: 393px;
+height: 669px;
+left: -1px;
+top: 1254px;
+
+
+
+/* mission cta */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 36px;
+gap: 10px;
+
+position: absolute;
+width: 141px;
+height: 44px;
+left: 23px;
+top: 599px;
+
+/* primary */
+background: #05976A;
+border-radius: 32px;
+
+
+/* Learn More */
+
+width: 81px;
+height: 24px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* neutral 1 */
+color: #F2F6FF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Our features allows users to record and categorize their expenses , and enable users set up daily, monthly or custom budgets for different categories and users can set up personalized budgets based on categories or overall spending and set financial goals, such as saving for a vacation or paying off a debt, and tracks progress towards those goals */
+
+position: absolute;
+width: 352px;
+height: 192px;
+left: 24px;
+top: 379px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+/* Dark */
+color: #0E110D;
+
+
+
+/* mission pic */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 24px 10px 10px;
+gap: 10px;
+
+position: absolute;
+width: 351px;
+height: 256px;
+left: 21px;
+top: 0px;
+
+border-radius: 10.716px;
+
+
+/* iPhone 13 mini */
+
+width: 274.65px;
+height: 549px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* PASTE HERE - iPhone 13 mini */
+
+position: absolute;
+width: 239.08px;
+height: 518.33px;
+left: 56.03px;
+top: 39.3px;
+
+background: #FFFFFF;
+
+
+/* PASTE HERE */
+
+position: absolute;
+left: 0px;
+right: 0.08px;
+top: 0px;
+bottom: 0.33px;
+
+background: url(image.png);
+
+
+/* create budget */
+
+position: absolute;
+width: 239.08px;
+height: 517.7px;
+left: 0px;
+top: 0px;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Frame 427320702 */
+
+position: absolute;
+width: 239.08px;
+height: 29.77px;
+left: calc(50% - 239.08px/2);
+top: 0px;
+
+
+
+/* Status Bars */
+
+position: absolute;
+height: 29.77px;
+left: 0%;
+right: 0%;
+top: 0px;
+
+/* primary dark */
+background: #000504;
+
+
+/* Text input */
+
+position: absolute;
+left: 89.6%;
+right: 3.91%;
+top: 39.39%;
+bottom: 34.85%;
+
+
+
+/* Rectangle */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 89.6%;
+right: 4.53%;
+top: 39.39%;
+bottom: 34.85%;
+
+mix-blend-mode: normal;
+opacity: 0.35;
+/* Primary/0
+
+#FFFFFF
+*/
+border: 0.637557px solid #FFFFFF;
+border-radius: 1.70015px;
+
+
+/* Combined Shape */
+
+position: absolute;
+left: 95.73%;
+right: 3.91%;
+top: 47.73%;
+bottom: 43.18%;
+
+/* Primary/0
+
+#FFFFFF
+*/
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.4;
+
+
+/* Rectangle */
+
+position: absolute;
+left: 90.13%;
+right: 5.07%;
+top: 43.94%;
+bottom: 39.39%;
+
+/* Primary/0
+
+#FFFFFF
+*/
+background: #FFFFFF;
+border-radius: 0.850075px;
+
+
+/* Text input */
+
+position: absolute;
+left: 84.18%;
+right: 11.74%;
+top: 39.39%;
+bottom: 35.69%;
+
+/* Primary/0
+
+#FFFFFF
+*/
+background: #FFFFFF;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 84.18%;
+right: 11.74%;
+top: 39.39%;
+bottom: 49.83%;
+
+background: #DADADA;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 84.9%;
+right: 12.45%;
+top: 48.01%;
+bottom: 43.73%;
+
+background: #DADADA;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 85.6%;
+right: 13.16%;
+top: 56.64%;
+bottom: 35.69%;
+
+background: #DADADA;
+
+
+/* Text input */
+
+position: absolute;
+left: 78.31%;
+right: 17.16%;
+top: 40.15%;
+bottom: 35.61%;
+
+/* Primary/0
+
+#FFFFFF
+*/
+background: #FFFFFF;
+
+
+/* Cellular_Connection-path */
+
+position: absolute;
+left: 78.31%;
+right: 20.89%;
+top: 55.3%;
+bottom: 35.61%;
+
+background: #DADADA;
+
+
+/* Cellular_Connection-path */
+
+position: absolute;
+left: 79.56%;
+right: 19.64%;
+top: 50.76%;
+bottom: 35.61%;
+
+background: #DADADA;
+
+
+/* Cellular_Connection-path */
+
+position: absolute;
+left: 80.8%;
+right: 18.4%;
+top: 45.45%;
+bottom: 35.61%;
+
+background: #DADADA;
+
+
+/* Cellular_Connection-path */
+
+position: absolute;
+left: 82.04%;
+right: 17.16%;
+top: 40.15%;
+bottom: 35.61%;
+
+background: #DADADA;
+
+
+/* Text input */
+
+position: absolute;
+left: 5.6%;
+right: 80%;
+top: 27.27%;
+bottom: 25%;
+
+
+
+/* 9:41 */
+
+position: absolute;
+left: 0%;
+right: -30.35%;
+top: 11.91%;
+bottom: -19.06%;
+
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 600;
+font-size: 9.56335px;
+line-height: 11px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+letter-spacing: -0.02em;
+
+/* Primary/0 */
+color: #FFFFFF;
+
+
+
+/* Bars / Nav Bars: Standard */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 5.79%;
+bottom: 88.3%;
+
+/* Sky/White */
+background: #FFFFFF;
+
+
+/* Right Actionable */
+
+position: absolute;
+visibility: hidden;
+width: 93px;
+height: 12px;
+right: 15.75px;
+top: calc(50% - 12px/2 - 0.74px);
+
+/* Large/None/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 18px;
+/* or 100% */
+display: flex;
+align-items: center;
+text-align: right;
+
+/* Primary/Base */
+color: #6B4EFF;
+
+
+
+/* Frame 427320701 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 7.65px;
+
+position: absolute;
+width: 114.4px;
+height: 13px;
+left: 10.2px;
+top: calc(50% - 13px/2 + 0.32px);
+
+
+
+/* bi:arrow-up */
+
+width: 12.75px;
+height: 12.75px;
+
+transform: rotate(-90deg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.24%;
+right: 37.5%;
+top: 78.13%;
+bottom: -65.63%;
+
+/* Text dark */
+background: #333333;
+transform: rotate(-90deg);
+
+
+/* Set Budget Categories */
+
+width: 94px;
+height: 13px;
+
+/* Regular/Type@14
+
+The quick brown fox jumps over the lazy dog
+*/
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+display: flex;
+align-items: flex-end;
+text-align: center;
+letter-spacing: -0.02em;
+
+/* Text dark */
+color: #333333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Budget categories */
+
+position: absolute;
+width: 99px;
+height: 16px;
+left: 9.56px;
+top: 73.59px;
+
+/* Bold/Type@18
+
+The quick brown fox jumps over the lazy dog
+*/
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+display: flex;
+align-items: flex-end;
+letter-spacing: -0.03em;
+
+/* Text dark */
+color: #333333;
+
+
+
+/* Frame 427320729 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-items: center;
+align-content: flex-start;
+padding: 0px;
+gap: 8px 3.18778px;
+
+position: absolute;
+width: 210.39px;
+height: 79.12px;
+left: calc(50% - 210.39px/2 - 1.59px);
+top: 99.46px;
+
+
+
+/* Frame 427320723 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 3.82534px;
+gap: 6.38px;
+
+width: 40.59px;
+height: 21.04px;
+
+/* secondary/secondary-100 */
+border: 0.637557px solid #BFBFBF;
+border-radius: 3.82534px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 427320715 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 2.55px;
+
+width: 32.94px;
+height: 13.39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 18 */
+
+width: 13.39px;
+height: 13.39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 114 */
+
+position: absolute;
+width: 13.39px;
+height: 13.39px;
+left: 0px;
+top: 0px;
+
+/* Pastels/pastel green */
+background: #E7FFE6;
+
+
+/* green-salad-emoji-512x395-u263gchi 2 */
+
+position: absolute;
+width: 8.29px;
+height: 6.39px;
+left: calc(50% - 8.29px/2 - 9.78px);
+top: calc(50% - 6.39px/2 - 0.31px);
+
+background: url(green-salad-emoji-512x395-u263gchi.png);
+
+
+/* Food */
+
+width: 17px;
+height: 10px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 6.37557px;
+line-height: 160%;
+/* or 10px */
+letter-spacing: -0.01em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427320721 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 3.82534px;
+gap: 6.38px;
+
+width: 57.59px;
+height: 21.04px;
+
+/* secondary/secondary-100 */
+border: 0.637557px solid #BFBFBF;
+border-radius: 3.82534px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427320715 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 2.55px;
+
+width: 49.94px;
+height: 13.39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 18 */
+
+width: 13.39px;
+height: 13.39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 19 */
+
+position: absolute;
+width: 13.39px;
+height: 13.39px;
+left: 0px;
+top: 0px;
+
+
+
+/* Ellipse 114 */
+
+position: absolute;
+width: 13.39px;
+height: 13.39px;
+left: 0px;
+top: 0px;
+
+/* Pastels/pastel salmon */
+background: #FDF1E1;
+
+
+/* google-analytics-icon-256x256-q74cj3js 2 */
+
+position: absolute;
+width: 8.29px;
+height: 8.29px;
+left: calc(50% - 8.29px/2 - 17.96px);
+top: calc(50% - 8.29px/2 + 0.32px);
+
+background: url(google-analytics-icon-256x256-q74cj3js.png);
+
+
+/* Investment */
+
+width: 34px;
+height: 10px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 6.37557px;
+line-height: 160%;
+/* or 10px */
+letter-spacing: -0.01em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427320716 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 3.82534px;
+gap: 6.38px;
+
+width: 54.59px;
+height: 21.04px;
+
+/* secondary/secondary-100 */
+border: 0.637557px solid #BFBFBF;
+border-radius: 3.82534px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 427320715 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 2.55px;
+
+width: 46.94px;
+height: 13.39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 18 */
+
+width: 13.39px;
+height: 13.39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 114 */
+
+position: absolute;
+width: 13.39px;
+height: 13.39px;
+left: 0px;
+top: 0px;
+
+/* Pastels/pastel salmon */
+background: #FDF1E1;
+
+
+/* applications-education-school-icon-256x256-qotofg68 1 */
+
+position: absolute;
+width: 8.29px;
+height: 8.29px;
+left: calc(50% - 8.29px/2 - 16.78px);
+top: calc(50% - 8.29px/2 - 0px);
+
+background: url(applications-education-school-icon-256x256-qotofg68.png);
+
+
+/* Education */
+
+width: 31px;
+height: 10px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 6.37557px;
+line-height: 160%;
+/* or 10px */
+letter-spacing: -0.01em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427320718 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 3.82534px;
+gap: 6.38px;
+
+width: 48.59px;
+height: 21.04px;
+
+/* secondary/secondary-100 */
+border: 0.637557px solid #BFBFBF;
+border-radius: 3.82534px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Frame 427320715 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 2.55px;
+
+width: 40.94px;
+height: 13.39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 19 */
+
+width: 13.39px;
+height: 13.39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 114 */
+
+position: absolute;
+width: 13.39px;
+height: 13.39px;
+left: 0px;
+top: 0px;
+
+/* Pastels/pastel green */
+background: #E7FFE6;
+
+
+/* house-with-garden-emoji-256x256-nlrmd6hk 1 */
+
+position: absolute;
+width: 8.29px;
+height: 8.29px;
+left: calc(50% - 8.29px/2 - 13.78px);
+top: calc(50% - 8.29px/2 - 0px);
+
+background: url(house-with-garden-emoji-256x256-nlrmd6hk.png);
+
+
+/* Housing */
+
+width: 25px;
+height: 10px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 6.37557px;
+line-height: 160%;
+/* or 10px */
+letter-spacing: -0.01em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427320724 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 3.82534px;
+gap: 6.38px;
+
+width: 66.59px;
+height: 21.04px;
+
+/* secondary/secondary-100 */
+border: 0.637557px solid #BFBFBF;
+border-radius: 3.82534px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Frame 427320715 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 2.55px;
+
+width: 58.94px;
+height: 13.39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 18 */
+
+width: 13.39px;
+height: 13.39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 114 */
+
+position: absolute;
+width: 13.39px;
+height: 13.39px;
+left: 0px;
+top: 0px;
+
+/* Pastels/pastel blue */
+background: #A3BBF9;
+
+
+/* entertainment-play-list-1-screen-television-display-player-movies-movie-tv-media-players-video-icon-256x255-3olsefgx 1 */
+
+position: absolute;
+width: 8.29px;
+height: 8.26px;
+left: calc(50% - 8.29px/2 - 22.78px);
+top: calc(50% - 8.26px/2 - 0.02px);
+
+background: url(entertainment-play-list-1-screen-television-display-player-movies-movie-tv-media-players-video-icon-256x255-3olsefgx.png);
+
+
+/* Entertainment */
+
+width: 43px;
+height: 10px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 6.37557px;
+line-height: 160%;
+/* or 10px */
+letter-spacing: -0.01em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427320717 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 3.82534px;
+gap: 6.38px;
+
+width: 57.59px;
+height: 21.04px;
+
+/* secondary/secondary-100 */
+border: 0.637557px solid #BFBFBF;
+border-radius: 3.82534px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Frame 427320715 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 2.55px;
+
+width: 49.94px;
+height: 13.39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 18 */
+
+width: 13.39px;
+height: 13.39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 19 */
+
+position: absolute;
+width: 13.39px;
+height: 13.39px;
+left: 0px;
+top: 0px;
+
+
+
+/* Ellipse 114 */
+
+position: absolute;
+width: 13.39px;
+height: 13.39px;
+left: 0px;
+top: 0px;
+
+/* Pastels/pastel salmon */
+background: #FDF1E1;
+
+
+/* health-illustration-256x239-84c43egd 1 */
+
+position: absolute;
+width: 8.29px;
+height: 7.74px;
+left: calc(50% - 8.29px/2 - 18.28px);
+top: calc(50% - 7.74px/2 - 0.28px);
+
+background: url(health-illustration-256x239-84c43egd.png);
+
+
+/* Healthcare */
+
+width: 34px;
+height: 10px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 6.37557px;
+line-height: 160%;
+/* or 10px */
+letter-spacing: -0.01em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427320722 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 3.82534px;
+gap: 6.38px;
+
+width: 64.59px;
+height: 21.04px;
+
+/* secondary/secondary-100 */
+border: 0.637557px solid #BFBFBF;
+border-radius: 3.82534px;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* Frame 427320715 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 2.55px;
+
+width: 56.94px;
+height: 13.39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 19 */
+
+width: 13.39px;
+height: 13.39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 114 */
+
+position: absolute;
+width: 13.39px;
+height: 13.39px;
+left: 0px;
+top: 0px;
+
+/* Pastels/Pastel grey */
+background: #F0F0F0;
+
+
+/* university-icon-256x238-vajc07k5 1 */
+
+position: absolute;
+width: 8.29px;
+height: 7.71px;
+left: calc(50% - 8.29px/2 - 22.09px);
+top: calc(50% - 7.71px/2 + 0.32px);
+
+background: url(university-icon-256x238-vajc07k5.png);
+
+
+/* Bank charges */
+
+width: 41px;
+height: 10px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 6.37557px;
+line-height: 160%;
+/* or 10px */
+letter-spacing: -0.01em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427320725 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 3.82534px;
+gap: 6.38px;
+
+width: 76.59px;
+height: 21.04px;
+
+/* secondary/secondary-100 */
+border: 0.637557px solid #BFBFBF;
+border-radius: 3.82534px;
+
+/* Inside auto layout */
+flex: none;
+order: 7;
+flex-grow: 0;
+
+
+/* Frame 427320715 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 2.55px;
+
+width: 68.94px;
+height: 13.39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 19 */
+
+width: 13.39px;
+height: 13.39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 114 */
+
+position: absolute;
+width: 13.39px;
+height: 13.39px;
+left: 0px;
+top: 0px;
+
+/* Pastels/Pastel grey */
+background: #F0F0F0;
+
+
+/* carbon:add-filled */
+
+position: absolute;
+width: 8.29px;
+height: 8.29px;
+left: calc(50% - 8.29px/2 - 27.78px);
+top: calc(50% - 8.29px/2 - 0px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.24%;
+right: 6.26%;
+top: 6.25%;
+bottom: 6.25%;
+
+/* primary */
+background: #05976A;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 25%;
+bottom: 25%;
+
+
+
+/* Custom category */
+
+width: 53px;
+height: 10px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 6.37557px;
+line-height: 160%;
+/* or 10px */
+letter-spacing: -0.01em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427320727 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 7.65px;
+
+position: absolute;
+width: 206.57px;
+height: 84.16px;
+left: calc(50% - 206.57px/2 + 0.32px);
+top: 385.08px;
+
+
+
+/* Variants */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 6.38px;
+
+width: 206.57px;
+height: 38.25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Base Component */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12.7511px 61.2054px;
+gap: 15.3px;
+
+width: 206.57px;
+height: 38.25px;
+
+background: #F7F7F7;
+border: 0.637557px solid #F7F7F7;
+border-radius: 63.7557px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button Component */
+
+width: 74px;
+height: 13px;
+
+/* Semibold/Type@14
+
+The quick brown fox jumps over the lazy dog
+*/
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.02em;
+
+/* Text dark */
+color: #333333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Variants */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 6.38px;
+
+width: 206.57px;
+height: 38.25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Base Component */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12.7511px 61.2054px;
+gap: 15.3px;
+
+width: 206.57px;
+height: 38.25px;
+
+/* primary */
+background: #05976A;
+/* primary */
+border: 0.637557px solid #05976A;
+border-radius: 63.7557px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button Component */
+
+width: 54px;
+height: 13px;
+
+/* Semibold/Type@14
+
+The quick brown fox jumps over the lazy dog
+*/
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 427320728 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 213.58px;
+height: 173.42px;
+left: calc(50% - 213.58px/2 - 0px);
+top: 188.08px;
+
+/* secondary/secondary-50 */
+border: 0.637557px solid #EAEAEA;
+border-radius: 5.10045px;
+
+
+/* Frame 427320752 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 7.65px;
+
+position: absolute;
+width: 184.94px;
+height: 119.86px;
+left: 14.66px;
+top: calc(50% - 119.86px/2 - 14.03px);
+
+
+
+/* Frame 427320732 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 40.8px;
+
+width: 184.94px;
+height: 17.85px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 427320731 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 15.3px;
+
+width: 56.15px;
+height: 17.85px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 17 */
+
+width: 17.85px;
+height: 17.85px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 109 */
+
+position: absolute;
+width: 17.85px;
+height: 17.85px;
+left: 0px;
+top: 0px;
+
+/* Pastels/pastel green */
+background: #E7FFE6;
+
+
+/* green-salad-emoji-512x395-u263gchi 1 */
+
+position: absolute;
+width: 13.22px;
+height: 10.2px;
+left: calc(50% - 13.22px/2 - 18.91px);
+top: 3.83px;
+
+background: url(green-salad-emoji-512x395-u263gchi.png);
+
+
+/* Food */
+
+width: 23px;
+height: 13px;
+
+/* Regular/Type@14
+
+The quick brown fox jumps over the lazy dog
+*/
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427320730 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 2.55px;
+
+width: 87.98px;
+height: 17.85px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427320729 */
+
+width: 67.58px;
+height: 17.85px;
+
+background: #F7F7F7;
+border-radius: 15.3014px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* /₦100,000 */
+
+position: absolute;
+width: 41px;
+height: 11px;
+left: calc(50% - 41px/2 + 0.74px);
+top: calc(50% - 11px/2 - 0.24px);
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 7.65068px;
+line-height: 140%;
+/* identical to box height, or 11px */
+letter-spacing: -0.03em;
+
+/* secondary/secondary-300 */
+color: #757474;
+
+
+
+/* Group 20 */
+
+width: 17.85px;
+height: 17.85px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse 115 */
+
+position: absolute;
+width: 17.85px;
+height: 17.85px;
+left: 70.13px;
+top: 0px;
+
+background: #F7F7F7;
+
+
+/* cil:x */
+
+position: absolute;
+width: 8.93px;
+height: 8.93px;
+left: calc(50% - 8.93px/2 + 35.07px);
+top: calc(50% - 8.93px/2 - 0px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.54%;
+right: 16.54%;
+top: 16.54%;
+bottom: 16.54%;
+
+background: #000000;
+
+
+/* Group 21 */
+
+width: 184.25px;
+height: 17.85px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group 19 */
+
+position: absolute;
+width: 17.85px;
+height: 17.85px;
+left: 0px;
+top: 25.5px;
+
+
+
+/* Ellipse 114 */
+
+position: absolute;
+width: 17.85px;
+height: 17.85px;
+left: 0px;
+top: 25.5px;
+
+/* Pastels/pastel salmon */
+background: #FDF1E1;
+
+
+/* applications-education-school-icon-256x256-qotofg68 1 */
+
+position: absolute;
+width: 11.05px;
+height: 11.05px;
+left: calc(50% - 11.05px/2 - 83.54px);
+top: calc(50% - 11.05px/2 - 25.5px);
+
+background: url(applications-education-school-icon-256x256-qotofg68.png);
+
+
+/* Education */
+
+position: absolute;
+width: 42px;
+height: 13px;
+left: 33.15px;
+top: 27.73px;
+
+/* Regular/Type@14
+
+The quick brown fox jumps over the lazy dog
+*/
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Frame 427320730 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 2.55px;
+
+position: absolute;
+width: 87.98px;
+height: 17.85px;
+left: 96.27px;
+top: 25.5px;
+
+
+
+/* Frame 427320729 */
+
+width: 67.58px;
+height: 17.85px;
+
+background: #F7F7F7;
+border-radius: 15.3014px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* /₦100,000 */
+
+position: absolute;
+width: 41px;
+height: 11px;
+left: calc(50% - 41px/2 + 0.74px);
+top: calc(50% - 11px/2 - 0.24px);
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 7.65068px;
+line-height: 140%;
+/* identical to box height, or 11px */
+letter-spacing: -0.03em;
+
+/* secondary/secondary-300 */
+color: #757474;
+
+
+
+/* Group 20 */
+
+width: 17.85px;
+height: 17.85px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse 115 */
+
+position: absolute;
+width: 17.85px;
+height: 17.85px;
+left: 70.13px;
+top: 0px;
+
+background: #F7F7F7;
+
+
+/* cil:x */
+
+position: absolute;
+width: 8.93px;
+height: 8.93px;
+left: calc(50% - 8.93px/2 + 35.07px);
+top: calc(50% - 8.93px/2 - 0px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.54%;
+right: 16.54%;
+top: 16.54%;
+bottom: 16.54%;
+
+background: #000000;
+
+
+/* Group 22 */
+
+width: 184.25px;
+height: 17.85px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Group 18 */
+
+position: absolute;
+width: 17.85px;
+height: 17.85px;
+left: 0px;
+top: 51px;
+
+
+
+/* Group 19 */
+
+position: absolute;
+width: 17.85px;
+height: 17.85px;
+left: 0px;
+top: 51px;
+
+
+
+/* Ellipse 114 */
+
+position: absolute;
+width: 17.85px;
+height: 17.85px;
+left: 0px;
+top: 51px;
+
+/* Pastels/pastel salmon */
+background: #FDF1E1;
+
+
+/* health-illustration-256x239-84c43egd 1 */
+
+position: absolute;
+width: 11.05px;
+height: 10.32px;
+left: calc(50% - 11.05px/2 - 83.54px);
+top: calc(50% - 10.32px/2 - 0.37px);
+
+background: url(health-illustration-256x239-84c43egd.png);
+
+
+/* Healthcare */
+
+position: absolute;
+width: 45px;
+height: 13px;
+left: 33.15px;
+top: 53.24px;
+
+/* Regular/Type@14
+
+The quick brown fox jumps over the lazy dog
+*/
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Frame 427320730 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 2.55px;
+
+position: absolute;
+width: 87.98px;
+height: 17.85px;
+left: 96.27px;
+top: 51px;
+
+
+
+/* Frame 427320729 */
+
+width: 67.58px;
+height: 17.85px;
+
+background: #F7F7F7;
+border-radius: 15.3014px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* /₦100,000 */
+
+position: absolute;
+width: 41px;
+height: 11px;
+left: calc(50% - 41px/2 + 0.74px);
+top: calc(50% - 11px/2 - 0.24px);
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 7.65068px;
+line-height: 140%;
+/* identical to box height, or 11px */
+letter-spacing: -0.03em;
+
+/* secondary/secondary-300 */
+color: #757474;
+
+
+
+/* Group 20 */
+
+width: 17.85px;
+height: 17.85px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse 115 */
+
+position: absolute;
+width: 17.85px;
+height: 17.85px;
+left: 70.13px;
+top: 0px;
+
+background: #F7F7F7;
+
+
+/* cil:x */
+
+position: absolute;
+width: 8.93px;
+height: 8.93px;
+left: calc(50% - 8.93px/2 + 35.07px);
+top: calc(50% - 8.93px/2 - 0px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.54%;
+right: 16.54%;
+top: 16.54%;
+bottom: 16.54%;
+
+background: #000000;
+
+
+/* Group 23 */
+
+width: 184.25px;
+height: 17.85px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Group 19 */
+
+position: absolute;
+width: 17.85px;
+height: 17.85px;
+left: 0px;
+top: 76.51px;
+
+
+
+/* Ellipse 114 */
+
+position: absolute;
+width: 17.85px;
+height: 17.85px;
+left: 0px;
+top: 76.51px;
+
+/* Pastels/pastel green */
+background: #E7FFE6;
+
+
+/* house-with-garden-emoji-256x256-nlrmd6hk 1 */
+
+position: absolute;
+width: 11.05px;
+height: 11.05px;
+left: calc(50% - 11.05px/2 - 83.54px);
+top: calc(50% - 11.05px/2 + 25.5px);
+
+background: url(house-with-garden-emoji-256x256-nlrmd6hk.png);
+
+
+/* Housing */
+
+position: absolute;
+width: 35px;
+height: 13px;
+left: 33.15px;
+top: 78.74px;
+
+/* Regular/Type@14
+
+The quick brown fox jumps over the lazy dog
+*/
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Frame 427320730 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 2.55px;
+
+position: absolute;
+width: 87.98px;
+height: 17.85px;
+left: 96.27px;
+top: 76.51px;
+
+
+
+/* Frame 427320729 */
+
+width: 67.58px;
+height: 17.85px;
+
+background: #F7F7F7;
+border-radius: 15.3014px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* /₦100,000 */
+
+position: absolute;
+width: 41px;
+height: 11px;
+left: calc(50% - 41px/2 + 0.74px);
+top: calc(50% - 11px/2 - 0.24px);
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 7.65068px;
+line-height: 140%;
+/* identical to box height, or 11px */
+letter-spacing: -0.03em;
+
+/* secondary/secondary-300 */
+color: #757474;
+
+
+
+/* Group 20 */
+
+width: 17.85px;
+height: 17.85px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse 115 */
+
+position: absolute;
+width: 17.85px;
+height: 17.85px;
+left: 70.13px;
+top: 0px;
+
+background: #F7F7F7;
+
+
+/* cil:x */
+
+position: absolute;
+width: 8.93px;
+height: 8.93px;
+left: calc(50% - 8.93px/2 + 35.07px);
+top: calc(50% - 8.93px/2 - 0px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.54%;
+right: 16.54%;
+top: 16.54%;
+bottom: 16.54%;
+
+background: #000000;
+
+
+/* Group 24 */
+
+width: 184.25px;
+height: 17.85px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Group 18 */
+
+position: absolute;
+width: 17.85px;
+height: 17.85px;
+left: 0px;
+top: 102.01px;
+
+
+
+/* Group 20 */
+
+position: absolute;
+width: 17.85px;
+height: 17.85px;
+left: 0px;
+top: 102.01px;
+
+
+
+/* Ellipse 114 */
+
+position: absolute;
+width: 17.85px;
+height: 17.85px;
+left: 0px;
+top: 102.01px;
+
+/* Pastels/pastel salmon */
+background: #FDF1E1;
+
+
+/* google-analytics-icon-256x256-q74cj3js 2 */
+
+position: absolute;
+width: 11.05px;
+height: 11.05px;
+left: calc(50% - 11.05px/2 - 83.12px);
+top: calc(50% - 11.05px/2 + 51.43px);
+
+background: url(google-analytics-icon-256x256-q74cj3js.png);
+
+
+/* Investment */
+
+position: absolute;
+width: 46px;
+height: 13px;
+left: 33.15px;
+top: 104.24px;
+
+/* Regular/Type@14
+
+The quick brown fox jumps over the lazy dog
+*/
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Frame 427320730 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 2.55px;
+
+position: absolute;
+width: 87.98px;
+height: 17.85px;
+left: 96.27px;
+top: 102.01px;
+
+
+
+/* Frame 427320729 */
+
+width: 67.58px;
+height: 17.85px;
+
+background: #F7F7F7;
+border-radius: 15.3014px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* /₦100,000 */
+
+position: absolute;
+width: 41px;
+height: 11px;
+left: calc(50% - 41px/2 + 0.74px);
+top: calc(50% - 11px/2 - 0.24px);
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 7.65068px;
+line-height: 140%;
+/* identical to box height, or 11px */
+letter-spacing: -0.03em;
+
+/* secondary/secondary-300 */
+color: #757474;
+
+
+
+/* Group 20 */
+
+width: 17.85px;
+height: 17.85px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse 115 */
+
+position: absolute;
+width: 17.85px;
+height: 17.85px;
+left: 70.13px;
+top: 0px;
+
+background: #F7F7F7;
+
+
+/* cil:x */
+
+position: absolute;
+width: 8.93px;
+height: 8.93px;
+left: calc(50% - 8.93px/2 + 35.07px);
+top: calc(50% - 8.93px/2 - 0px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.54%;
+right: 16.54%;
+top: 16.54%;
+bottom: 16.54%;
+
+background: #000000;
+
+
+/* mask */
+
+position: absolute;
+width: 274.65px;
+height: 549px;
+left: 38.18px;
+top: 24px;
+
+background: url(image.png);
+
+
+/* Bezel */
+
+position: absolute;
+width: 270.32px;
+height: 550.21px;
+left: 40.09px;
+top: 24px;
+
+background: url(image.png);
+
+
+/* Frame 1000004162 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 302px;
+height: 83px;
+left: 26px;
+top: 280px;
+
+
+
+/* Budget creation and customization */
+
+width: 302px;
+height: 68px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 120%;
+/* or 34px */
+
+/* primary/primary-900 */
+color: #023F2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 80 */
+
+width: 100px;
+height: 7px;
+
+/* primary/primary-900 */
+background: #023F2D;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1000004162 */
+
+position: absolute;
+width: 393px;
+height: 669px;
+left: -2px;
+top: 1923px;
+
+background: #FFFFFF;
+
+
+/* mission cta */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 36px;
+gap: 10px;
+
+position: absolute;
+width: 141px;
+height: 44px;
+left: 23px;
+top: 575px;
+
+/* primary */
+background: #05976A;
+border-radius: 32px;
+
+
+/* Learn More */
+
+width: 81px;
+height: 24px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* neutral 1 */
+color: #F2F6FF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Our features help users automatically link to bank account to reduce manual data entry and ensures data encryption and protection of sensitive financial information.we also Presents financial data through charts and graphs for easy analysis and offers insights into spending patterns over time to identify areas for improvement. */
+
+position: absolute;
+width: 352px;
+height: 168px;
+left: 24px;
+top: 379px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+/* Dark */
+color: #0E110D;
+
+
+
+/* mission pic */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 24px 10px 10px;
+gap: 10px;
+
+position: absolute;
+width: 351px;
+height: 256px;
+left: 21px;
+top: 0px;
+
+border-radius: 10.716px;
+
+
+/* iPhone 13 mini */
+
+width: 274.65px;
+height: 549px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* iPhone 13 mini */
+
+position: absolute;
+width: 274.65px;
+height: 549px;
+left: 0px;
+top: 0px;
+
+
+
+/* PASTE HERE - iPhone 13 mini */
+
+position: absolute;
+width: 239.04px;
+height: 518.25px;
+left: 17.85px;
+top: 15.3px;
+
+background: #FFFFFF;
+
+
+/* PASTE HERE */
+
+position: absolute;
+left: 0px;
+right: 0.04px;
+top: 0px;
+bottom: 0.25px;
+
+background: url(image.png);
+
+
+/* Sync account */
+
+position: absolute;
+width: 239.04px;
+height: 517.61px;
+left: 0px;
+top: 0px;
+
+/* Error/error-500 */
+background: #CE2C60;
+
+
+/* Ellipse 112 */
+
+position: absolute;
+width: 67.57px;
+height: 67.57px;
+left: -11.47px;
+top: -17.85px;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Frame 427320700 */
+
+position: absolute;
+width: 21.67px;
+height: 21.67px;
+left: 204.62px;
+top: 12.75px;
+
+/* White */
+background: #FFFFFF;
+border-radius: 77.4045px;
+
+
+/* bi:x */
+
+position: absolute;
+width: 15.3px;
+height: 15.3px;
+left: 3.19px;
+top: 3.19px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 28.12%;
+right: 28.12%;
+top: 28.12%;
+bottom: 28.12%;
+
+/* Text dark */
+background: #333333;
+
+
+/* Sync your account with fundnoon */
+
+position: absolute;
+width: 159px;
+height: 15px;
+left: calc(50% - 159px/2 - 6.87px);
+top: 76.49px;
+
+/* Semibold/Type@16
+
+The quick brown fox jumps over the lazy dog
+*/
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+
+
+
+/* Frame 427320711 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10.2px;
+
+position: absolute;
+width: 179.76px;
+height: 145.05px;
+left: 29.96px;
+top: 109.64px;
+
+
+
+/* Frame 427320709 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 7.65px;
+
+width: 179.76px;
+height: 41.55px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* vuesax/bulk/lock */
+
+width: 12.75px;
+height: 12.75px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* vuesax/bulk/lock */
+
+position: absolute;
+width: 12.75px;
+height: 12.75px;
+left: 0px;
+top: 0px;
+
+
+
+/* lock */
+
+position: absolute;
+width: 12.75px;
+height: 12.75px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 43.21%;
+right: 43.21%;
+top: 58.71%;
+bottom: 27.71%;
+
+/* White */
+background: #FFFFFF;
+opacity: 0.4;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 39.33%;
+bottom: 8.33%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 23.83%;
+right: 23.83%;
+top: 8.33%;
+bottom: 60.25%;
+
+/* White */
+background: #FFFFFF;
+opacity: 0.4;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+opacity: 0;
+
+
+/* Frame 427320708 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 2.55px;
+
+width: 159.36px;
+height: 41.55px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Secured */
+
+width: 36px;
+height: 13px;
+
+/* Semibold/Type@14
+
+The quick brown fox jumps over the lazy dog
+*/
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Your information is encrypted using bank grade security */
+
+width: 159.36px;
+height: 26px;
+
+/* Regular/Type@14
+
+The quick brown fox jumps over the lazy dog
+*/
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427320710 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 7.65px;
+
+width: 179.76px;
+height: 41.55px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* vuesax/bold/eye-slash */
+
+width: 12.75px;
+height: 12.75px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* vuesax/bold/eye-slash */
+
+position: absolute;
+width: 12.75px;
+height: 12.75px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 33.57%;
+right: 8.3%;
+top: 31.29%;
+bottom: 14.29%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 38.09%;
+right: 41.58%;
+top: 38.08%;
+bottom: 41.58%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 23.96%;
+top: 14.29%;
+bottom: 23.96%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 49.29%;
+right: 38.08%;
+top: 49.29%;
+bottom: 38.08%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.36%;
+right: 8.32%;
+top: 8.35%;
+bottom: 8.33%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 100%;
+bottom: -100%;
+
+opacity: 0;
+transform: rotate(-180deg);
+
+
+/* Frame 427320708 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 2.55px;
+
+width: 159.36px;
+height: 41.55px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Private */
+
+width: 29px;
+height: 13px;
+
+/* Semibold/Type@14
+
+The quick brown fox jumps over the lazy dog
+*/
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Your information is encrypted using bank grade security */
+
+width: 159.36px;
+height: 26px;
+
+/* Regular/Type@14
+
+The quick brown fox jumps over the lazy dog
+*/
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427320711 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 7.65px;
+
+width: 179.76px;
+height: 41.55px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* vuesax/bold/shield-tick */
+
+width: 12.75px;
+height: 12.75px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* vuesax/bold/shield-tick */
+
+position: absolute;
+width: 12.75px;
+height: 12.75px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 14.79%;
+right: 14.83%;
+top: 7.93%;
+bottom: 8.3%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 100%;
+bottom: -100%;
+
+opacity: 0;
+transform: rotate(-180deg);
+
+
+/* Frame 427320708 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 2.55px;
+
+width: 159.36px;
+height: 41.55px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Protected */
+
+width: 43px;
+height: 13px;
+
+/* Semibold/Type@14
+
+The quick brown fox jumps over the lazy dog
+*/
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Your information is encrypted using bank grade security */
+
+width: 159.36px;
+height: 26px;
+
+/* Regular/Type@14
+
+The quick brown fox jumps over the lazy dog
+*/
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427320712 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 7.65px;
+
+position: absolute;
+width: 168.29px;
+height: 69.9px;
+left: calc(50% - 168.29px/2 + 0.32px);
+top: 283.66px;
+
+
+
+/* By clicking the button below, you agree to Mono Terms & Conditions */
+
+width: 165.1px;
+height: 24px;
+
+/* Regular/Type@12
+
+The quick brown fox jumps over the lazy dog
+*/
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 160%;
+/* or 19px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.01em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Variants */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 6.37px;
+
+width: 168.29px;
+height: 38.25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Base Component */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12.749px 61.195px;
+gap: 15.3px;
+
+width: 168.29px;
+height: 38.25px;
+
+/* White */
+background: #FFFFFF;
+border: 0.637448px solid #F7F7F7;
+border-radius: 63.7448px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button Component */
+
+width: 64px;
+height: 13px;
+
+/* Semibold/Type@14
+
+The quick brown fox jumps over the lazy dog
+*/
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.02em;
+
+/* Text dark */
+color: #333333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* mask */
+
+position: absolute;
+width: 274.65px;
+height: 549px;
+left: 0px;
+top: 0px;
+
+background: url(image.png);
+
+
+/* Bezel */
+
+position: absolute;
+width: 270.32px;
+height: 550.21px;
+left: 1.91px;
+top: 0px;
+
+background: url(image.png);
+
+
+/* Frame 1000004162 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 339px;
+height: 83px;
+left: 26px;
+top: 280px;
+
+
+
+/* Bank integration, Financial Tracking and Insight */
+
+width: 339px;
+height: 68px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 120%;
+/* or 34px */
+
+/* primary dark */
+color: #000504;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 80 */
+
+width: 100px;
+height: 7px;
+
+/* primary/primary-900 */
+background: #023F2D;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1000004163 */
+
+position: absolute;
+width: 393px;
+height: 669px;
+left: -2px;
+top: 2592px;
+
+
+
+/* mission cta */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 36px;
+gap: 10px;
+
+position: absolute;
+width: 141px;
+height: 44px;
+left: 24px;
+top: 599px;
+
+/* primary */
+background: #05976A;
+border-radius: 32px;
+
+
+/* Learn More */
+
+width: 81px;
+height: 24px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* neutral 1 */
+color: #F2F6FF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Users can categorize their expenses into different groups (e.g., groceries, entertainment, utilities) and Providing instant updates on transactions to help users stay on top of their spending and our features allows users input individuals transactions specifying financial goals and providing insights into spending patrerns and financial health */
+
+position: absolute;
+width: 352px;
+height: 192px;
+left: 24px;
+top: 379px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+/* Black */
+color: #000000;
+
+
+
+/* mission pic */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 24px 10px 10px;
+gap: 10px;
+
+position: absolute;
+width: 351px;
+height: 256px;
+left: 21px;
+top: 0px;
+
+border-radius: 10.716px;
+
+
+/* budget 2 */
+
+width: 274.5px;
+height: 549px;
+
+background: url(budget.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1000004162 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 349px;
+height: 83px;
+left: 26px;
+top: 280px;
+
+
+
+/* Expense Tracking and Transaction Recording */
+
+width: 349px;
+height: 68px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 120%;
+/* or 34px */
+
+/* primary/primary-900 */
+color: #023F2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 80 */
+
+width: 100px;
+height: 7px;
+
+/* primary/primary-900 */
+background: #023F2D;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Testimonial */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 10px 0px;
+gap: 16px;
+
+position: absolute;
+width: 390px;
+height: 307px;
+left: 1px;
+top: 3399px;
+
+
+
+/* Frame 1000004159 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px 18px;
+gap: 12px;
+
+width: 390px;
+height: 259px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1000004158 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-end;
+padding: 0px;
+gap: 12px;
+
+width: 292.15px;
+height: 94px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* BG */
+
+width: 94px;
+height: 94px;
+
+background: url(image.png);
+border-radius: 5.89958px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1000004157 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 3px;
+
+width: 186.15px;
+height: 46.87px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* User */
+
+width: 186.15px;
+height: 27px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Arkins Boo */
+
+position: absolute;
+width: 79px;
+height: 27px;
+left: 0px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14.9248px;
+line-height: 26px;
+/* identical to box height, or 175% */
+display: flex;
+align-items: center;
+letter-spacing: -0.18656px;
+
+/* Base/02 */
+color: #090914;
+
+
+
+/* DLDesign.co */
+
+position: absolute;
+width: 91px;
+height: 23px;
+left: 95.15px;
+top: 1.87px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14.9248px;
+line-height: 22px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+/* blue-gray/500 */
+color: #64748B;
+
+
+
+/* Group 28 */
+
+width: 112.87px;
+height: 16.87px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* star 1 */
+
+position: absolute;
+width: 17.64px;
+height: 16.87px;
+left: 0px;
+top: 30px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 90.53%;
+top: 64.01%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 17.64px;
+height: 16.87px;
+left: 0px;
+top: 30px;
+
+/* Accent */
+background: #F6A00B;
+
+
+/* star 2 */
+
+position: absolute;
+width: 17.64px;
+height: 16.87px;
+left: 23.81px;
+top: 30px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.79%;
+right: 77.74%;
+top: 64.01%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 17.64px;
+height: 16.87px;
+left: 23.81px;
+top: 30px;
+
+/* Accent */
+background: #F6A00B;
+
+
+/* star 3 */
+
+position: absolute;
+width: 17.64px;
+height: 16.87px;
+left: 47.62px;
+top: 30px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 25.58%;
+right: 64.95%;
+top: 64.01%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 17.64px;
+height: 16.87px;
+left: 47.62px;
+top: 30px;
+
+/* Accent */
+background: #F6A00B;
+
+
+/* star 4 */
+
+position: absolute;
+width: 17.64px;
+height: 16.87px;
+left: 71.42px;
+top: 30px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 38.37%;
+right: 52.16%;
+top: 64.01%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 17.64px;
+height: 16.87px;
+left: 71.42px;
+top: 30px;
+
+/* Accent */
+background: #F6A00B;
+
+
+/* star 5 */
+
+position: absolute;
+width: 17.64px;
+height: 16.87px;
+left: 95.23px;
+top: 30px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 51.16%;
+right: 39.37%;
+top: 64.01%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 17.64px;
+height: 16.87px;
+left: 95.23px;
+top: 30px;
+
+/* Accent */
+background: #F6A00B;
+
+
+/* "This app seamlessly syncs with my bank accounts, saving me a lot of manual data entry. The security features are top-notch, which gives me peace of mind." */
+
+width: 350px;
+height: 105px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 16.7904px;
+line-height: 26px;
+/* or 156% */
+
+/* Base/02 */
+color: #090914;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 427320759 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 6.5px;
+
+width: 45px;
+height: 12px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse 56 */
+
+width: 10px;
+height: 10px;
+
+/* primary/primary-700 */
+background: #046B4B;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 59 */
+
+width: 12px;
+height: 12px;
+
+/* primary/primary-700 */
+background: #046B4B;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse 60 */
+
+width: 10px;
+height: 10px;
+
+/* primary/primary-700 */
+background: #046B4B;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 1000004166 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 24px 0px;
+gap: 16px;
+
+position: absolute;
+width: 390px;
+height: 138px;
+left: 1px;
+top: 3261px;
+
+background: #FFFFFF;
+
+
+/* Testimonials */
+
+width: 89px;
+height: 24px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* Dark */
+color: #0E110D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1000004165 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 325px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* We our clients say About Us */
+
+width: 325px;
+height: 35px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 150%;
+/* or 36px */
+text-align: center;
+
+/* primary */
+color: #05976A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 75 */
+
+width: 100px;
+height: 7px;
+
+/* primary/primary-200 */
+background: #8CCFBA;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1000004167 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 24px 0px;
+gap: 24px;
+
+position: absolute;
+width: 390px;
+height: 188px;
+left: 1px;
+top: 3706px;
+
+background: #FFFFFF;
+
+
+/* lets talk more about our services and features ? */
+
+width: 224px;
+height: 72px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+text-align: center;
+text-transform: uppercase;
+
+/* neutral dark */
+color: #323334;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 8 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+width: 141px;
+height: 44px;
+
+/* primary */
+background: #05976A;
+/* Accent */
+border: 1px solid #1976D2;
+border-radius: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Contact Us */
+
+width: 78px;
+height: 24px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* neutral 1 */
+color: #F2F6FF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1000004168 */
+
+position: absolute;
+width: 391px;
+height: 652px;
+left: 0px;
+top: 3899px;
+
+/* primary/primary-700 */
+background: #046B4B;
+
+
+/* Black logo - no background 4 */
+
+position: absolute;
+width: 139px;
+height: 30.75px;
+left: 22px;
+top: 10px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 3.84%;
+top: 18.75%;
+bottom: 0%;
+
+
+
+/* SvgjsG2232 */
+
+position: absolute;
+left: 0%;
+right: 78%;
+top: 18.75%;
+bottom: 0%;
+
+
+
+/* Page-1 */
+
+position: absolute;
+left: 0%;
+right: 78%;
+top: 18.75%;
+bottom: 0%;
+
+
+
+/* Artboard */
+
+position: absolute;
+left: 0%;
+right: 78%;
+top: 18.75%;
+bottom: 0%;
+
+
+
+/* Asset-6LETTERS1 */
+
+position: absolute;
+left: 0%;
+right: 78%;
+top: 18.75%;
+bottom: 0%;
+
+
+
+/* Shape */
+
+position: absolute;
+left: 0%;
+right: 78%;
+top: 18.75%;
+bottom: 0%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* SvgjsG2233 */
+
+position: absolute;
+left: 33.31%;
+right: 3.84%;
+top: 39.85%;
+bottom: 18.74%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 33.31%;
+right: 3.84%;
+top: 39.85%;
+bottom: 18.74%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Column */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 169.33px;
+height: 225px;
+left: 27px;
+top: 68px;
+
+
+
+/* Heading */
+
+width: 169.33px;
+height: 24px;
+
+/* Text/Regular/Semi Bold */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Footer Links */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 169.33px;
+height: 185px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 0px;
+
+width: 169.33px;
+height: 37px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+width: 169.33px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 0px;
+
+width: 169.33px;
+height: 37px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+width: 169.33px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 0px;
+
+width: 169.33px;
+height: 37px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+width: 169.33px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 0px;
+
+width: 169.33px;
+height: 37px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+width: 169.33px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 0px;
+
+width: 169.33px;
+height: 37px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+width: 169.33px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Column */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 169.33px;
+height: 225px;
+left: 196px;
+top: 68px;
+
+
+
+/* Heading */
+
+width: 169.33px;
+height: 24px;
+
+/* Text/Regular/Semi Bold */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Footer Links */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 169.33px;
+height: 185px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 0px;
+
+width: 169.33px;
+height: 37px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+width: 169.33px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 0px;
+
+width: 169.33px;
+height: 37px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+width: 169.33px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 0px;
+
+width: 169.33px;
+height: 37px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+width: 169.33px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 0px;
+
+width: 169.33px;
+height: 37px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+width: 169.33px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 0px;
+
+width: 169.33px;
+height: 37px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+width: 169.33px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Column */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 169.33px;
+height: 240px;
+left: 27px;
+top: 317px;
+
+
+
+/* Heading */
+
+width: 169.33px;
+height: 24px;
+
+/* Text/Regular/Semi Bold */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Social Links */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 169.33px;
+height: 200px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 12px;
+
+width: 169.33px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Icon / Facebook */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 9.34%;
+bottom: 7.32%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Facebook */
+
+width: 61px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 12px;
+
+width: 169.33px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Icon / Instagram */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 13.51%;
+bottom: 11.49%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Instagram */
+
+width: 64px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 12px;
+
+width: 169.33px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Icon / X */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 17.68%;
+bottom: 15.66%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* X */
+
+width: 9px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 12px;
+
+width: 169.33px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Icon / LinkedIn */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 13.51%;
+bottom: 11.49%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* LinkedIn */
+
+width: 53px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 12px;
+
+width: 169.33px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Icon / Youtube */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.27%;
+right: 8.33%;
+top: 20.83%;
+bottom: 20.78%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Youtube */
+
+width: 52px;
+height: 21px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 254px;
+height: 21px;
+left: 89px;
+top: 587px;
+
+/* Text/Small/Normal */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* Row */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 64px;
+
+position: absolute;
+width: 393px;
+height: 21px;
+left: 0px;
+top: 4516px;
+
+
+
+/* Footer Links */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+margin: 0 auto;
+width: 345px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Link */
+
+width: 87px;
+height: 21px;
+
+/* Text/Small/Link */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+text-decoration-line: underline;
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Link */
+
+width: 105px;
+height: 21px;
+
+/* Text/Small/Link */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+text-decoration-line: underline;
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link */
+
+width: 105px;
+height: 21px;
+
+/* Text/Small/Link */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+text-decoration-line: underline;
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;

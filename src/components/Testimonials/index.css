@@ -1,0 +1,328 @@
+
+.landing-page-1 .frame-1781 {
+    background: #FFFFFF;
+    margin-bottom: 0.4rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1.3rem 0 0.7rem 0;
+    /* width: 90rem; */
+    box-sizing: border-box;
+  }
+  .landing-page-1 .testimonials {
+    margin: 0 0 1rem 1.8rem;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-heading-h-4-font-family, 'Lato');
+    font-weight: var(--body-heading-h-4-font-weight, 700);
+    font-size: var(--body-heading-h-4-font-size, 1.5rem);
+    line-height: var(--body-heading-h-4-line-height, 1.5);
+    color: var(--dark, #0E110D);
+  }
+  .landing-page-1 .review {
+    margin: 0 0rem 0.9rem 0rem;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    column-gap: 0.4rem;
+    width: 7.1rem;
+    box-sizing: border-box;
+  }
+  .landing-page-1 .star-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1.1rem;
+    height: 1.1rem;
+    box-sizing: border-box;
+  }
+  .landing-page-1 .vector-4 {
+    width: 1.1rem;
+    height: 1.1rem;
+  }
+  .landing-page-1 .star-2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1.1rem;
+    height: 1.1rem;
+    box-sizing: border-box;
+  }
+  .landing-page-1 .vector-5 {
+    width: 1.1rem;
+    height: 1.1rem;
+  }
+  .landing-page-1 .star-3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1.1rem;
+    height: 1.1rem;
+    box-sizing: border-box;
+  }
+  
+.landing-page-1 .vector-6 {
+    width: 1.1rem;
+    height: 1.1rem;
+  }
+  .landing-page-1 .star-4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1.1rem;
+    height: 1.1rem;
+    box-sizing: border-box;
+  }
+  .landing-page-1 .vector-7 {
+    width: 1.1rem;
+    height: 1.1rem;
+  }
+  .landing-page-1 .star-5 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1.1rem;
+    height: 1.1rem;
+    box-sizing: border-box;
+  }
+  .landing-page-1 .vector-8 {
+    width: 1.1rem;
+    height: 1.1rem;
+  }
+  .ilove-this-budgeting-app-its-incredibly-user-friendly-and-its-helped-me-gain-control-over-my-finances-setting-and-tracking-my-budget-has-never-been-easier {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.333;
+  }
+  .ilove-this-budgeting-app-its-incredibly-user-friendly-and-its-helped-me-gain-control-over-my-finances-setting-and-tracking-my-budget-has-never-been-easier-sub13 {
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.333;
+  }
+  .landing-page-1 .ilove-this-budgeting-app-its-incredibly-user-friendly-and-its-helped-me-gain-control-over-my-finances-setting-and-tracking-my-budget-has-never-been-easier {
+    margin-bottom: 3.1rem;
+    overflow-wrap: break-word;
+    font-family: 'Lateef';
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.556;
+    color: var(--base-02, #090914);
+  }
+  .landing-page-1 .user {
+    margin: 0 0rem;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .landing-page-1 .nora-james {
+    margin-right: 1.3rem;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 0.9rem;
+    letter-spacing: 0rem;
+    line-height: 1.75;
+    color: var(--base-02, #090914);
+  }
+  
+.landing-page-1 .grower-io {
+    margin: 0.1rem 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    color: var(--blue-gray-500, #64748B);
+  }
+  
+  .landing-page-1 .bg {
+    border-radius: 0.9rem;
+    background: url('../../../public/images/Bg.png');
+    margin-right: 2.3rem;
+    width: 13.9rem;
+    height: 13.9rem;
+  }
+  .landing-page-1 .ellipse-56 {
+    border-radius: 0.6rem;
+    background: var(--primaryprimary-700, #046B4B);
+    margin: 0.1rem 0;
+    width: 1.3rem;
+    height: 1.3rem;
+  }
+  .landing-page-1 .ellipse-59 {
+    border-radius: 0.8rem;
+    background: var(--primaryprimary-700, #046B4B);
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+  .landing-page-1 .ellipse-60 {
+    border-radius: 0.6rem;
+    background: var(--primaryprimary-700, #046B4B);
+    margin: 0.1rem 0;
+    width: 1.3rem;
+    height: 1.3rem;
+  }
+  .landing-page-1 .frame-124 {
+    margin-left: 2.6rem;
+    display: flex;
+    flex-direction: row;
+    column-gap: 0.8rem;
+    width: 5.6rem;
+    box-sizing: border-box;
+  }
+  .landing-page-1 .container-1 {
+    margin-bottom: 0.5rem;
+    display: flex;
+    flex-direction: row;
+    column-gap: 0.3rem;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .landing-page-1 .content-5 {
+    margin: 0.9rem 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .landing-page-1 .review-1 {
+    margin: 0 0rem 0.9rem 0rem;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    column-gap: 0.4rem;
+    width: 7.1rem;
+    box-sizing: border-box;
+  }
+  .landing-page-1 .star-11 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1.1rem;
+    height: 1.1rem;
+    box-sizing: border-box;
+  }
+  .landing-page-1 .vector-9 {
+    width: 1.1rem;
+    height: 1.1rem;
+  }
+  .landing-page-1 .star-21 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1.1rem;
+    height: 1.1rem;
+    box-sizing: border-box;
+  }
+  .landing-page-1 .vector-10 {
+    width: 1.1rem;
+    height: 1.1rem;
+  }
+  .landing-page-1 .star-31 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1.1rem;
+    height: 1.1rem;
+    box-sizing: border-box;
+  }
+  .landing-page-1 .vector-11 {
+    width: 1.1rem;
+    height: 1.1rem;
+  }
+  .landing-page-1 .star-41 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1.1rem;
+    height: 1.1rem;
+    box-sizing: border-box;
+  }
+  .landing-page-1 .vector-12 {
+    width: 1.1rem;
+    height: 1.1rem;
+  }
+  .landing-page-1 .star-51 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1.1rem;
+    height: 1.1rem;
+    box-sizing: border-box;
+  }
+  .landing-page-1 .user-1 {
+    margin: 0 0rem;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  
+.landing-page-1 .arkins-boo {
+    margin-right: 1.1rem;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 0.9rem;
+    letter-spacing: 0rem;
+    line-height: 1.75;
+    color: var(--base-02, #090914);
+  }
+  .landing-page-1 .dldesign-co {
+    margin: 0.1rem 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    color: var(--blue-gray-500, #64748B);
+  }
+
+  .landing-page-1 .this-app-seamlessly-syncs-with-my-bank-accounts-saving-me-alot-of-manual-data-entry-the-security-features-are-top-notch-which-gives-me-peace-of-mind {
+    margin-bottom: 2.1rem;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.556;
+    color: var(--base-02, #090914);
+  }
+  
+  .landing-page-1 .vector-13 {
+    width: 1.1rem;
+    height: 1.1rem;
+  }
+  .landing-page-1 .bg-1 {
+    border-radius: 0.9rem;
+    background: url('../../../public/images/Bg1.png') 50% / cover no-repeat;
+    margin-right: 2.3rem;
+    width: 13.9rem;
+    height: 13.9rem;
+  }
+    
+.landing-page-1 .frame-153 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+
+.landing-page-1 .what-our-clients-say-about-us {
+  margin-bottom: 1.1rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-heading-h-3-font-family, 'Lato');
+  font-weight: var(--body-heading-h-3-font-weight, 700);
+  font-size: var(--body-heading-h-3-font-size, 2.5rem);
+  line-height: var(--body-heading-h-3-line-height, 1.5);
+  color: var(--primary, #05976A);
+}

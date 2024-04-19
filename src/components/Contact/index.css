@@ -1,0 +1,68 @@
+.landing-page-1 .frame-427320754 {
+    box-shadow: 0rem 0.3rem 0.3rem 0rem rgba(0, 0, 0, 0.25);
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 6.5rem 0 7.8rem 6rem;
+    /* width: 90rem; */
+    box-sizing: border-box;
+  }
+  .landing-page-1 .ellipse-116 {
+    position: absolute;
+    top: -2.3rem;
+    right: -1.8rem;
+    width: 11.1rem;
+    height: 11.3rem;
+  }
+  
+  .landing-page-1 .ellipse-117 {
+    position: absolute;
+    left: -1.1rem;
+    top: 22.8rem;
+    width: 11.1rem;
+    height: 11.3rem;
+  }
+  
+.landing-page-1 .frame-179 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  
+
+.landing-page-1 .lets-talk-more-about-our-services-and-features {
+    margin-bottom: 3.2rem;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 1.5;
+    text-transform: uppercase;
+    color: var(--neutral-dark, #323334);
+  }
+  
+.landing-page-1 .frame-8 {
+    border-radius: 2rem;
+    border: 0.1rem solid var(--accent, #1976D2);
+    background: var(--primary, #05976A);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 1.1rem 0rem 1.1rem 0;
+    width: 15.1rem;
+    box-sizing: border-box;
+  }
+  
+.landing-page-1 .contact-us-1 {
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: var(--neutral-1, #F2F6FF);
+  }
