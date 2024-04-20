@@ -104,6 +104,7 @@
     margin-bottom: 6.9rem;
     display: flex;
     flex-direction: row;
+    justify-content: center;
     width: fit-content;
     box-sizing: border-box;
   }

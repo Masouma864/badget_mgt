@@ -1,11 +1,8 @@
-// Services.js
 import React from 'react';
-import './index.css'
 
-const Services = () => {
-  return (
-    <div className="services">
-       <div className="services-6">
+const ServiceItem = ({ text }) => {
+    return (
+        <div className="services-1">
         <div className="content">
           <div className="content-1">
             <div className="budget-creation-and-customization">
@@ -13,7 +10,7 @@ const Services = () => {
             </div>
             <div className="rectangle-79">
             </div>
-            <span className="services-6-desc">
+            <span className="services-1-desc">
                Our features allows users to record and categorize their expenses , and enable users set up  daily, monthly or custom budgets for different categories and users can set up personalized budgets based on categories or overall spending and set  financial goals, such as saving for a vacation or paying off a debt, and tracks progress towards those goals
             </span>
           </div>
@@ -134,7 +131,7 @@ const Services = () => {
               </div>
               <div className="frame-427320728">
                 <div className="group-1">
-                  <div className="container-20">
+                  <div className="container-1">
                     <div className="group-17">
                       <div className="green-salad-emoji-512-x-395-u-263-gchi-1">
                       </div>
@@ -225,164 +222,16 @@ const Services = () => {
                     </div>
                   </div>
                 </div>
-                {/* <div className="group-24">
-                  <div className="group-186">
-                    <div className="google-analytics-icon-256-x-256-q-74-cj-3-js-21">
-                    </div>
-                  </div>
-                  <div className="investment-1">
-                    Investment
-                  </div>
-                  <div className="frame-4273207304">
-                    <div className="frame-4273207295">
-                      <span className="container-7">
-                        /₦100,000
-                      </span>
-                    </div>
-                    <div className="group-204">
-                      <div className="cilx-4">
-                        <img className="vector-35" src="/images/Vectorclose.png" />
-                      </div>
-                    </div>
-                  </div>
-                </div> */}
+            
               </div>
-              {/* <div className="frame-427320727">
-                <div className="variants-1">
-                  <div className="base-component-1">
-                    <span className="button-component-1">
-                      NGN 100,000.00
-                    </span>
-                  </div>
-                </div>
-                <div className="variants-2">
-                  <div className="base-component-2">
-                    <span className="button-component-2">
-                      Save Budget
-                    </span>
-                  </div>
-                </div>
-              </div> */}
+             
             </div>
             
           </div>
           <img className="container2" src="/images/Bezel.png" />
         </div>
       </div>
-      <div className="services-2">
-      <div className="iphone-13-mini-2">
-          <div className="paste-here-iphone-13-mini-2">
-            <div className="paste-here">
-            </div>
-            <div className="sync-account">
-              <div className="ellipse-112">
-              </div>
-              <div className="frame-427320700">
-                <img className="vector-19" src="/vectors/Vector8_x2.svg" />
-              </div>
-              <div className="sync-your-account-with-fundnoon">
-                Sync your account with fundnoon
-              </div>
-              <div className="frame-427320711">
-                <div className="frame-427320709">
-                  <div className="vuesaxbulklock">
-                    <img className="lock" src="/vectors/Lock_x2.svg" />
-                  </div>
-                  <div className="frame-427320708">
-                    <div className="secured">
-                      Secured
-                    </div>
-                    <span className="your-information-is-encrypted-using-bank-grade-security">
-                      Your information is encrypted using bank grade security
-                    </span>
-                  </div>
-                </div>
-                <div className="frame-427320710">
-                  <div className="vuesaxboldeye-slash">
-                    <img className="vuesaxboldeye-slash-1" src="/vectors/VuesaxboldeyeSlash1_x2.svg" />
-                  </div>
-                  <div className="frame-4273207081">
-                    <div className="private">
-                      Private
-                    </div>
-                    <span className="your-information-is-encrypted-using-bank-grade-security-1">
-                      Your information is encrypted using bank grade security
-                    </span>
-                  </div>
-                </div>
-                <div className="frame-4273207111">
-                  <div className="vuesaxboldshield-tick">
-                    <img className="vector-28" src="/vectors/Vector132_x2.svg" />
-                  </div>
-                  <div className="frame-4273207082">
-                    <div className="protected">
-                      Protected
-                    </div>
-                    <span className="your-information-is-encrypted-using-bank-grade-security-2">
-                      Your information is encrypted using bank grade security
-                    </span>
-                  </div>
-                </div>
-              </div>
-              {/* <div className="frame-427320712">
-                <p className="by-clicking-the-button-below-you-agree-to-mono-terms-conditions">
-                  <span className="by-clicking-the-button-below-you-agree-to-mono-terms-conditions-sub-0"></span><span href="https://docs.mono.com/"></span>
-                </p>
-                <div className="variants">
-                  <div className="base-component">
-                    <span className="button-component">
-                      Select Account
-                    </span>
-                  </div>
-                </div>
-              </div> */}
-            </div>
-          </div>
+    );
+  }
 
-          <img className="container-2" src="/images/Bezel.png" alt="Container Image" />
-        </div>
-        <div className="content-2">
-          <div className="section-title">
-            <div className="service2-title">
-             <span>Bank integration, Financial Tracking and Insight</span> 
-            </div>
-            <div className="rectangle-78">
-            </div>
-            <span className="service2-desc">
-                Our features help users automatically  link to bank account to reduce manual data entry and ensures data encryption and protection of sensitive financial information.we also  Presents financial data through charts and graphs for easy analysis and offers insights into spending patterns over time to identify areas for improvement.
-            </span>
-          </div>
-          <div className="cta-2">
-            <span className="learn-more-2">
-              learn More
-            </span>
-          </div>
-        </div>
-        
-      </div>
-      <div className="services-3">
-        <div className="content-3">
-          <div className="section-title-1">
-            <div className="services3-title">
-              Expense Tracking and Transaction Recording
-            </div>
-            <div className="rectangle-781">
-            </div>
-            <span className="services3-desc">
-              Users can categorize their expenses into different groups (e.g., groceries, entertainment, utilities) and Providing instant updates on transactions to help users stay on top of their spending and our features  allows users input individuals transactions specifying financial goals and providing insights into spending patrerns and financial health
-            </span>
-          </div>
-          <div className="cta-3">
-            <span className="learn-more-3">
-              learn More
-            </span>
-          </div>
-        </div>
-        <div className="budget-11">
-        </div>
-      </div>
-    </div>
-  );
-};
-
-export default Services;
+  export default ServiceItem;

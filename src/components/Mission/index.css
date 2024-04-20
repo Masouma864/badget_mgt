@@ -50,9 +50,11 @@
   }
   .landing-page-1 .learn-more-about-our-missions {
     position: relative;
+    white-space: normal;
     overflow-wrap: break-word;
     font-family: 'Lato';
     font-weight: 700;
+    width: 70%;
     font-size: 3.1rem;
     line-height: 1.2;
     color: var(--text-dark, #333333);

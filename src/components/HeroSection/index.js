@@ -1,8 +1,18 @@
 // HeroText.js
 import React from 'react';
 import './index.css';
+import CtaButtons from './CtaButtons';
+import FeatureSection from './FeatureSection';
 
-const HeroText = () => {
+const HeroText = ({ onDownloadClick, onPlayDemoClick }) => {
+  const handleDownloadClick = () => {
+    // عملیات مورد نظری که باید هنگام کلیک بر روی دکمه Download انجام شود
+  };
+  
+  const handlePlayDemoClick = () => {
+    // عملیات مورد نظری که باید هنگام کلیک بر روی دکمه Play Demo انجام شود
+  };
+  
   return (
     <div className="frame-hero">
     
@@ -16,41 +26,9 @@ const HeroText = () => {
                 <span>and secure your finances where every penny counts . 
               </span>
             </div>
-            <div className="cta">
-              <div className="frame-10">
-                <span className="download-app">
-                  Download App
-                </span>
-              </div>
-              <div className="cta-1">
-                <img className="octiconplay-24" src="/images/octicon_play-24.png" />
-                <div className="play-demo">
-                  Play Demo
-                </div>
-              </div>
-            </div>
+            <CtaButtons onDownloadClick={onDownloadClick} onPlayDemoClick={onPlayDemoClick} />
           </div>
-          <div className="group-27">
-            <div className="iphone-13-mini-1">
-            </div>
-            <div className="frame-174">
-              <span className="track-expenses">
-                Track Expenses
-              </span>
-            </div>
-            <div className="frame-175">
-              <span className="budget-creation">
-                Budget  creation
-              </span>
-            </div>
-            <div className="frame-176">
-              <span className="save-more">
-                Save more
-              </span>
-            </div>
-            <div className="budget-1">
-            </div>
-          </div>
+          <FeatureSection/>
         </div>
      
   );

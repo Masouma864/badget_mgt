@@ -12,7 +12,7 @@ const Mission = () => {
     <div className="learn-mission">
       <div className="m">
       <p className="learn-more-about-our-missions">
-        <span className="learn-more-about-our-missions-sub-6">Learn More About</span><br></br><span> Our</span><span className='sub-7'> Missions</span>
+        <span className="learn-more-about-our-missions-sub-6">Learn More About Our</span><span className='sub-7'> Missions</span>
       </p>
         <span className="mission-desc">
           Fundnook is a budgetting App  whoose mission is to that help individuals </span><span>and businesses manage their finances effectively by providing tools and </span><span>features that assist with budgeting, tracking expenses, and achieving</span><span> financial goals.
