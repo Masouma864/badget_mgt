@@ -5,7 +5,7 @@ const ServiceItem = ({ text }) => {
         <div className="services-1">
         <div className="content">
           <div className="content-1">
-            <div className="budget-creation-and-customization">
+            <div className="services1-title">
               Budget creation and customization
             </div>
             <div className="rectangle-79">
@@ -50,7 +50,7 @@ const ServiceItem = ({ text }) => {
               <div className="budget-categories">
                 Budget categories
               </div>
-              <div className="frame-427320729">
+              <div className="budg-cat">
                 <div className="container-1">
                   <div className="frame-427320723">
                     <div className="group-18">

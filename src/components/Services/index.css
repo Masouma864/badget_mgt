@@ -1,5 +1,5 @@
 
-.landing-page-1 .services-6 {
+.landing-page-1 .services-1 {
     background: var(--bgggg, #F3FFFB);
     position: relative;
     margin-bottom: 7.8rem;
@@ -8,60 +8,7 @@
     box-sizing: border-box;
     height: 602px;
   }
-  .landing-page-1 .content {
-    opacity: 0.8;
-    display: flex;
-    width: 50%;
-    flex-direction: column;
-    padding: 0 0.3rem 0.8rem 0;
-    box-sizing: border-box;
-  }
-  .landing-page-1 .content-1 {
-    margin-bottom: 3rem;
-    display: flex;
-    flex-direction: column;
 
-    box-sizing: border-box;
-  }
-  .landing-page-1 .budget-creation-and-customization {
-    margin-bottom: 1.5rem;
-   
-    align-self: flex-start;
-   
-    font-family: var(--heading-h-2-font-family, 'Roboto');
-    font-weight: var(--heading-h-2-font-weight, 700);
-    font-size: var(--heading-h-2-font-size, 3rem);
-    line-height: var(--heading-h-2-line-height, 1.2);
-    color: var(--primary-dark, #000504);
-    height: 2em; /* Adjust the height as needed */
-    white-space: nowrap; /* Prevent text wrapping */
-    display: inline-block;
-    width: 100%; /* Specify the width */
-    white-space: normal; /* Allow text to wrap */
-    margin-bottom: 4rem;
-  }
-  .landing-page-1 .rectangle-79 {
-    border-radius: 0.5rem;
-    background: var(--primaryprimary-900, #023F2D);
-    margin-bottom: 1.5rem;
-    align-self: flex-start;
-    width: 9.4rem;
-    height: 0.4rem;
-  }
-  .landing-page-1 .services-6-desc {
-  
-    font-family: 'Lato';
-    font-weight: 400;
-    font-size: 1rem;
-    line-height: 1.5;
-    color: var(--dark, #0E110D);
-    height: 4em; /* Adjust the height as needed */
-    white-space: nowrap; /* Prevent text wrapping */
-    display: inline-block;
-    width: 100%; /* Specify the width */
-    white-space: normal; /* Allow text to wrap */
-    margin-bottom: 4rem;
-  }
   .landing-page-1 .frame-154 {
     border-radius: 2rem;
     background: var(--primaryprimary-700, #046B4B);
@@ -91,65 +38,8 @@
     display: flex;
     justify-content: space-between;
   }
-  .landing-page-1 .content-2 {
-    /* padding:0 0.3rem 0.8rem 30rem; */
-    width: 50%;
-    display: flex;
-    flex-direction: column;
-    box-sizing: border-box;
-  }
-  .landing-page-1 .section-title {
-    margin-bottom: 3rem;
-    display: flex;
-    flex-direction: column;
-    /* width: fit-content; */
-    box-sizing: border-box;
-  }
-  .landing-page-1 .service2-title {
-    margin: 0 0.6rem 1.5rem 0;
-    display: inline-block;
-    overflow-wrap: break-word;
-    font-family: var(--heading-h-2-font-family, 'Roboto');
-    font-weight: var(--heading-h-2-font-weight, 700);
-    font-size: var(--heading-h-2-font-size, 2.5rem);
-    line-height: var(--heading-h-2-line-height, 1.2);
-    color: var(--primary-dark, #000504);
-    align-self: flex-start;
-    height: 2em; /* Adjust the height as needed */
-    width: 100%; /* Specify the width */
-    white-space: normal; /* Allow text to wrap */
-  
-  }
-  .landing-page-1 .rectangle-78 {
-    border-radius: 0.5rem;
-    background: var(--primaryprimary-900, #023F2D);
-    margin-bottom: 1.5rem;
-    align-self: flex-start;
-    width: 9.4rem;
-    height: 0.4rem;
-  }
-  .landing-page-1 .service2-desc {
-    display: inline-block;
-    width: 100%;
-    white-space: normal;
-    /* overflow-wrap: break-word; */
-    font-family: 'Lato';
-    font-weight: 400;
-    font-size: 1rem;
-    line-height: 1.5;
-    color: var(--dark, #0E110D);
-  }
-  .landing-page-1 .cta-2 {
-    border-radius: 2rem;
-    background: var(--primary, #05976A);
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-self: flex-start;
-    padding: 0.6rem 0rem 0.6rem 0;
-    width: 8.8rem;
-    box-sizing: border-box;
-  }
+ 
+
   .landing-page-1 .learn-more-2 {
     overflow-wrap: break-word;
     font-family: 'Lato';
@@ -167,14 +57,15 @@ overflow: hidden;
     /* margin-bottom: 7.8rem; */
     height: 480px;
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    /* grid-template-columns: 1fr 1fr; */
   }
   
 .landing-page-1 .content-3 {
-    /* margin: 0 8.7rem 8.6rem 0; */
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
+    margin-bottom: 3rem;
+    width: 50%;
   }
   .landing-page-1 .section-title-1 {
     margin-bottom: 3rem;
@@ -274,6 +165,8 @@ overflow: hidden;
     flex-direction: column;
     align-items: center;
     width: fit-content;
+    white-space: normal;
+    text-align: left;
     box-sizing: border-box;
   }
   .landing-page-1 .frame-427320709 {
@@ -298,6 +191,7 @@ overflow: hidden;
   }
   .landing-page-1 .frame-427320708 {
     display: flex;
+    text-align: left;
     flex-direction: column;
     box-sizing: border-box;
   }
@@ -1068,7 +962,7 @@ overflow: hidden;
     width: 8.6rem;
     box-sizing: border-box;
   }
-  .landing-page-1 .frame-4273207292 {
+  .landing-page-1 .frame-4273207292,.frame-4273207293 {
     border-radius: 1.5rem;
     background: #F7F7F7;
     margin-right: 0.3rem;
@@ -1088,7 +982,7 @@ overflow: hidden;
     line-height: 1.4;
     color: var(--secondarysecondary-300, #757474);
   }
-  .landing-page-1 .group-201 {
+  .landing-page-1 .group-201, .group-202 {
     border-radius: 0.9rem;
     background: #F7F7F7;
     position: relative;
@@ -1156,27 +1050,7 @@ overflow: hidden;
     width: 8.6rem;
     box-sizing: border-box;
   }
-  .landing-page-1 .frame-4273207293 {
-    border-radius: 1.5rem;
-    background: #F7F7F7;
-    margin-right: 0.3rem;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    padding: 0.3rem 0 0.4rem 0.1rem;
-    width: 6.6rem;
-    box-sizing: border-box;
-  }
-  
-  .landing-page-1 .container-5 {
-    overflow-wrap: break-word;
-    font-family: 'Plus Jakarta Sans';
-    font-weight: 400;
-    font-size: 0.8rem;
-    letter-spacing: 0rem;
-    line-height: 1.4;
-    color: var(--secondarysecondary-300, #757474);
-  }
+
   .landing-page-1 .group-20 {
     border-radius: 0.9rem;
     background: #F7F7F7;
@@ -1337,12 +1211,19 @@ overflow: hidden;
     box-sizing: border-box;
   }
   .landing-page-1 .container-5 {
-    margin: 0 1.6rem 0.5rem 0;
+  
     display: flex;
     flex-direction: row;
     column-gap: 0.3rem;
     width: fit-content;
     box-sizing: border-box;
+    overflow-wrap: break-word;
+    font-family: 'Plus Jakarta Sans';
+    font-weight: 400;
+    font-size: 0.8rem;
+    letter-spacing: 0rem;
+    line-height: 1.4;
+    color: var(--secondarysecondary-300, #757474);
   }
   .landing-page-1 .container-6 {
     margin: 0.2rem 0;
@@ -1488,14 +1369,14 @@ overflow: hidden;
     left: 0rem;
     top: 0rem;
     width: 6rem;
-    height: 5.6rem;
+    height: 5.3rem;
 
     background-size: cover; /* Adjust as needed */
     background-position: center; /* Adjust as needed */
   }
   .landing-page-1 .paste-here {
-    
-    background: url('../../../public/images/PASTEHERE.png') 50% / cover no-repeat;
+/*     
+    background: url('../../../public/images/PASTEHERE.png') 50% / cover no-repeat; */
     position: absolute;
     left: 0rem;
     top: 0rem;
