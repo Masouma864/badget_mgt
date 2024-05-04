@@ -29,7 +29,7 @@ const testimonialsContainer = () => {
           Testimonials
         </div>
         <div className="frame-153">
-          <div className="what-our-clients-say-about-us">
+          <div className="frame-153-desc">
             What our clients say About Us
           </div>
           <div className="rectangle-75">

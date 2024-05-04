@@ -1,143 +1,211 @@
+@media only screen and (max-width: 768px) {
+  .mission .mission-pic {
+    top: 22%;
+    order: -1;
+    width: 441px;
+    height: 300px;
+    /* left: 35px; */
+    gap: 0px;
+    border-radius: 10.72px;
 
-.landing-page-1 .mission {
-    background: #FFFFFF;
-    position: relative;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    padding: 9.9rem 0;
-    /* width: 90rem; */
-    /* align-items: center; */
-    box-sizing: border-box;
-  
   }
-  
-.landing-page-1 .group-26 {
-    position: relative;
-    margin: 0.5rem 0;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    width: 24.3rem;
-    height: 19.5rem;
-    box-sizing: border-box;
+  .mission-desc{
+    font-size: 1.2rem;
   }
-  .landing-page-1 .frame-109 {
-    background: var(--primaryprimary-100, #B2DFD1);
-    width: 24.3rem;
-    height: 19.5rem;
-  }
-  .landing-page-1 .mission-pic {
-    border-radius: 1.5rem;
-    background: url('../../../public/images/MissionPic.jpeg') 50% / cover no-repeat;
-    position: absolute;
-    left: 6.1rem;
-    top: 50%;
-    translate: 0 -50%;
-    width: 35.5rem;
-    height: 30.4rem;
-    flex-basis: 50%;
-    flex: 1; /* Take up remaining space */
-  }
-  .landing-page-1 .learn-mission {
-    display: flex;
+
+.m .learn-more-about-our-missions {
+  text-align: left;
+  width: 100%;
+}
+  .landing-page-1 .mission {
     flex-direction: column;
-    width: 45%; 
-    box-sizing: border-box;
-    align-items: left; /* Align items vertically in the center */
-    justify-content: space-between; /* Add space between items */
-  
-  }
-  .landing-page-1 .learn-more-about-our-missions {
+    padding: 0.6rem 1rem 4rem 2.5rem;
     position: relative;
-    white-space: normal;
-    overflow-wrap: break-word;
-    font-family: 'Lato';
+    /* Set position to relative */
+    text-align: center;
+    /* Center text content */
+  }
+
+  .mission .group-26 {
+    display: none;
+  }
+
+  .mission .learn-mission {
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding:  20rem 0 0 0;
+    box-sizing: border-box;
+  }
+ .m .learn-more-about-our-missions-sub-6 , .m .sub-7{
+    font-family: Lato;
+    font-size: 38px;
     font-weight: 700;
-    width: 70%;
-    font-size: 3.1rem;
-    line-height: 1.2;
-    color: var(--text-dark, #333333);
+    line-height: 33.6px;
+    text-align: left;
+
   }
-  .sub-7 {
-    font-family: 'Lato';
-    font-weight: 700;
-    font-size: 3.1rem;
-    line-height: 1.333;
-    color: var(--accent-1, #F6A00B);
-  }
-  .learn-more-about-our-missions-sub-6 {
-    font-family: 'Lato';
-    font-weight: 700;
-    font-size: 3.1rem;
-    line-height: 1.333;
-  }
-  .lmission-desc {
-    /* position: absolute; */
-    left: 50%;
-    bottom: 0rem;
-    translate: -50% 0;
-   
-    font-family: 'Lato';
-    font-weight: 400;
-    font-size: 1rem;
-    line-height: 1.6;
-    color: var(--text-dark, #333333);
-    display: block;
-  
-    overflow: hidden;
-    text-overflow: ellipsis; /* Optional: add ellipsis for overflow text */
-    white-space: nowrap; /* Prevent text wrapping */
-  }
+}
+
+.mission {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 9.9rem 0;
+  /* width: 90rem; */
+  /* align-items: center; */
+  box-sizing: border-box;
+
+}
+
+.landing-page-1 .group-26 {
+  position: relative;
+  margin: 0.5rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 24.3rem;
+  height: 19.5rem;
+  box-sizing: border-box;
+}
+
+.frame-109 {
+  background: var(--primaryprimary-100, #B2DFD1);
+  width: 24.3rem;
+  height: 19.5rem;
+}
+
+.mission-pic {
+  border-radius: 1.5rem;
+  background: url('../../../public/images/MissionPic.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 6.1rem;
+  top: 50%;
+  translate: 0 -50%;
+  width: 35.5rem;
+  height: 30.4rem;
+  flex-basis: 50%;
+  flex: 1;
+  /* Take up remaining space */
+}
+
+.learn-mission {
+  display: flex;
+  flex-direction: column;
+  width: 45%;
+  box-sizing: border-box;
+  align-items: left;
+  /* Align items vertically in the center */
+  justify-content: space-between;
+  /* Add space between items */
+
+}
+
+.learn-more-about-our-missions {
+  position: relative;
+  white-space: normal;
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 700;
+  width: 70%;
+  font-size: 3.1rem;
+  line-height: 1.2;
+  color: var(--text-dark, #333333);
+}
+
+.sub-7 {
+  font-family: 'Lato';
+  font-weight: 700;
+  font-size: 3.1rem;
+  line-height: 1.333;
+  color: var(--accent-1, #F6A00B);
+}
+
+.learn-more-about-our-missions-sub-6 {
+  font-family: 'Lato';
+  font-weight: 700;
+  font-size: 3.1rem;
+  line-height: 1.333;
+}
+
+.lmission-desc {
+  /* position: absolute; */
+  left: 50%;
+  bottom: 0rem;
+  translate: -50% 0;
+
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--text-dark, #333333);
+  display: block;
+
+  overflow: hidden;
+  text-overflow: ellipsis;
+  /* Optional: add ellipsis for overflow text */
+  white-space: nowrap;
+  /* Prevent text wrapping */
+}
 
 .mission-desc {
   display: block;
   overflow: hidden;
-  text-overflow: ellipsis; /* Optional: add ellipsis for overflow text */
-  white-space: nowrap; /* Prevent text wrapping */
+  text-overflow: ellipsis;
+  /* Optional: add ellipsis for overflow text */
+  white-space: nowrap;
+  /* Prevent text wrapping */
 }
 
 /* Additional styles for other spans if needed */
-.mission-desc + span {
+.mission-desc+span {
   display: block;
   overflow: hidden;
-  text-overflow: ellipsis; /* Optional: add ellipsis for overflow text */
-  white-space: nowrap; /* Prevent text wrapping */
+  text-overflow: ellipsis;
+  /* Optional: add ellipsis for overflow text */
+  white-space: nowrap;
+  /* Prevent text wrapping */
 }
 
-.mission-desc + span + span {
+.mission-desc+span+span {
   display: block;
 
   overflow: hidden;
-  text-overflow: ellipsis; /* Optional: add ellipsis for overflow text */
-  white-space: nowrap; /* Prevent text wrapping */
+  text-overflow: ellipsis;
+  /* Optional: add ellipsis for overflow text */
+  white-space: nowrap;
+  /* Prevent text wrapping */
 }
-  .landing-page-1 .mission-cta {
-    border-radius: 2rem;
-    background: var(--primary, #05976A);
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-self: flex-start;
-    padding: 0.6rem 0rem 0.6rem 0;
-    width: 8.8rem;
-    box-sizing: border-box;
-  }
-  
+
+.mission-cta {
+  border-radius: 2rem;
+  background: var(--primary, #05976A);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  padding: 0.6rem 0rem 0.6rem 0;
+  width: 8.8rem;
+  box-sizing: border-box;
+}
+
 .landing-page-1 .m {
-    position: relative;
-    margin-bottom: 3rem;
-    width: fit-content;
-    /* text-align: justify; */
-    /* height: 14.8rem; */
-    box-sizing: border-box;
-  }
+  position: relative;
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+}
+.mission-desc{
+  white-space: normal;
+  text-align: left;
+}
 
-  .landing-page-1 .learn-more {
-    overflow-wrap: break-word;
-    font-family: 'Lato';
-    font-weight: 500;
-    font-size: 1rem;
-    line-height: 1.5;
-    color: var(--neutral-1, #F2F6FF);
-  }
+.learn-more {
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: var(--neutral-1, #F2F6FF);
+}

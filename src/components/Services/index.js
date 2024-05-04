@@ -3,6 +3,7 @@ import React from 'react';
 import './index.css'
 import ServiceContent from './ServiceContent';
 
+
 const Services = () => {
   return (
     <div className="services">
@@ -12,7 +13,7 @@ const Services = () => {
         title="Budget creation and customization"
         description="Our features allows users to record and categorize their expenses , and enable users set up  daily, monthly or custom budgets for different categories and users can set up personalized budgets based on categories or overall spending and set  financial goals, such as saving for a vacation or paying off a debt, and tracks progress towards those goals."
       />
-        <div className="iphone-13-mini-2">
+        <div className="iphone-13-mini-01">
           <div className="paste-here-iphone-13-mini-1">
             <div className="paste-here-1">
             </div>
@@ -214,44 +215,9 @@ const Services = () => {
                     </div>
                   </div>
                 </div>
-                {/* <div className="group-24">
-                  <div className="group-186">
-                    <div className="google-analytics-icon-256-x-256-q-74-cj-3-js-21">
-                    </div>
-                  </div>
-                  <div className="investment-1">
-                    Investment
-                  </div>
-                  <div className="frame-4273207304">
-                    <div className="frame-4273207295">
-                      <span className="container-7">
-                        /₦100,000
-                      </span>
-                    </div>
-                    <div className="group-204">
-                      <div className="cilx-4">
-                        <img className="vector-35" src="/images/Vectorclose.png" />
-                      </div>
-                    </div>
-                  </div>
-                </div> */}
+            
               </div>
-              {/* <div className="frame-427320727">
-                <div className="variants-1">
-                  <div className="base-component-1">
-                    <span className="button-component-1">
-                      NGN 100,000.00
-                    </span>
-                  </div>
-                </div>
-                <div className="variants-2">
-                  <div className="base-component-2">
-                    <span className="button-component-2">
-                      Save Budget
-                    </span>
-                  </div>
-                </div>
-              </div> */}
+        
             </div>
             
           </div>
@@ -331,6 +297,7 @@ const Services = () => {
         description="Users can categorize their expenses into different groups (e.g., groceries, entertainment, utilities) and Providing instant updates on transactions to help users stay on top of their spending and our features  allows users input individuals transactions specifying financial goals and providing insights into spending patrerns and financial health"
       />
         <div className="budget-11">
+        <img src="/images/Budget2.png" alt="Budget" />
         </div>
       </div>
     </div>

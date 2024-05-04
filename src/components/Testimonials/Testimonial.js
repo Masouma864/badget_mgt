@@ -38,6 +38,7 @@ const Testimonials = ({ testimonialsData }) => {
                                 <div className="grower-io">{testimonial.company}</div>
                             </div>
                         </div>
+                        <div className="content4-desc-mobile">{testimonial.content}</div>
                     </div>
 
                 ))}

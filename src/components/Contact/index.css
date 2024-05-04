@@ -1,4 +1,31 @@
-.landing-page-1 .frame-427320754 {
+@media screen and (max-width: 768px) {
+.frame-179  .contact-desc {
+    font-family: Lato;
+font-size: 33px;
+font-weight: 700;
+line-height: 44px;
+text-align: center;
+
+  }
+  .frame-8{
+    width: Fixed (141px)px;
+    height: Fixed (44px)px;
+    padding: 10px 0px 0px 0px;
+    gap: 10px;
+    border-radius: 32px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    
+  }
+  .landing-page-1 .frame-427320754{
+    padding: 6.5rem 0 7.8rem 0rem;
+    ;
+  }
+  .frame-427320754 .frame-179{
+    width: 80%;
+  }
+}
+.frame-427320754 {
     box-shadow: 0rem 0.3rem 0.3rem 0rem rgba(0, 0, 0, 0.25);
     position: relative;
     display: flex;
@@ -9,7 +36,7 @@
     box-sizing: border-box;
     overflow: hidden;
   }
-  .landing-page-1 .ellipse-116 {
+   .ellipse-116 {
     position: absolute;
     top: -2.3rem;
     right: -1.8rem;
@@ -17,7 +44,7 @@
     height: 11.3rem;
   }
   
-  .landing-page-1 .ellipse-117 {
+   .ellipse-117 {
     position: absolute;
     left: -1.1rem;
     top: 22.8rem;
@@ -25,7 +52,7 @@
     height: 11.3rem;
   }
   
-.landing-page-1 .frame-179 {
+ .frame-179 {
     position: relative;
     display: flex;
     width: 60%;
@@ -36,7 +63,7 @@
   }
   
 
-.landing-page-1 .lets-talk-more-about-our-services-and-features {
+ .contact-desc {
     margin-bottom: 3.2rem;
     display: inline-block;
     text-align: center;
@@ -48,8 +75,9 @@
     text-transform: uppercase;
     color: var(--neutral-dark, #323334);
   }
+
   
-.landing-page-1 .frame-8 {
+ .frame-8 {
     border-radius: 2rem;
     border: 0.1rem solid var(--accent, #1976D2);
     background: var(--primary, #05976A);
@@ -61,7 +89,7 @@
     box-sizing: border-box;
   }
   
-.landing-page-1 .contact-us-1 {
+ .contact-us-1 {
     overflow-wrap: break-word;
     font-family: 'Lato';
     font-weight: 400;

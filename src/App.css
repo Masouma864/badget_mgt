@@ -8,7 +8,10 @@
       gap: 6px;
       width: 100%;
     }
-  
+    .group-27,
+    .frame-109 {
+      display: none;
+    }
   
     
     .mission > div {
@@ -23,7 +26,7 @@
       display: none; /* Only need one method to hide an element */
     }
    
-   
+    
 
   }
   /* Original CSS */
