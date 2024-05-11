@@ -1625,22 +1625,25 @@
   .services-2,
   .services-1 {
     flex-direction: column;
-    padding: 0.6rem 1rem 4rem 2.5rem;
+    padding: 0.6rem 1.5rem 1rem 1.5rem;
     position: relative;
     text-align: center;
     display: flex;
     margin-bottom: 1rem;
     flex-direction: column-reverse;
-    height: 800px;
+    height: 890px;
     left: -2px;
     gap: 0px;
+    width: 100%;
     /* padding: 5.6rem 1rem 0 2.5rem; */
   }
 
-
+  .services-2{
+    background-color: white;
+  }
   .budget-11,
   .content-3{
-    width: 90%;
+    width: 100%;
     height: auto;
     position: relative;
     transform: none;
@@ -1648,17 +1651,17 @@
 
   .paste-here-iphone-13-mini-1 ,  .paste-here-iphone-13-mini-2 {
     top: 120px;
-    margin-right: 79px;
+    margin-right: 19px;
     transform: none;
     height: 549px;
   }
   .paste-here-iphone-13-mini-2{
-    top: 2rem;
-    left: 8.5rem;
+    top: 0.5rem;
+    left: 0rem;
   }
 
   .container2 , .container-2 {
-    margin-right: 60px;
+    margin-right: 0px;
     top: 0;
   }
 
@@ -1676,14 +1679,14 @@
     overflow: hidden;
   }
   .iphone-13-mini-2{
-    order: 1;
+    flex: 1;
     position: relative;
     overflow: hidden;
     top: 2rem;
     gap: 10px;
-    right: 0;
+    left: 0;
     border-radius: 10.72px 0px 0px 0px;
-    width: 90%;
+    width: 100%;
     height: auto;
     transform: none;
   }
@@ -1697,7 +1700,7 @@
     top: 2rem;
     gap: 10px;
     border-radius: 10.72px 0px 0px 0px;
-    width: 90%;
+    width: 100%;
     height: auto;
     transform: none;
   }
@@ -1716,13 +1719,13 @@
 
   }
   .container-2{
-    left: 7rem;
+    left: 1rem;
     top: 0;
   }
 
   .services3-desc {
     font-family: Lato;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 400;
     line-height: 24px;
     text-align: left;
@@ -1730,8 +1733,7 @@
   }
  
   .content-3 {
-  margin-top: 2rem;
-    margin-bottom: 1rem;
+    padding: 2rem 0.5rem 1rem 1.5rem;
   }
 
   .create-budget {
@@ -1740,6 +1742,6 @@
   .sync-account{
     z-index: 1;
     top:1rem;
-    left: 8.5rem;
+    left: 2.5rem;
   }
 }

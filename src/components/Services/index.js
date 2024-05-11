@@ -7,12 +7,12 @@ import ServiceContent from './ServiceContent';
 const Services = () => {
   return (
     <div className="services">
-       <div className="services-1">
+      <div className="services-1">
 
         <ServiceContent
-        title="Budget creation and customization"
-        description="Our features allows users to record and categorize their expenses , and enable users set up  daily, monthly or custom budgets for different categories and users can set up personalized budgets based on categories or overall spending and set  financial goals, such as saving for a vacation or paying off a debt, and tracks progress towards those goals."
-      />
+          title="Budget creation and customization"
+          description="Our features allows users to record and categorize their expenses , and enable users set up  daily, monthly or custom budgets for different categories and users can set up personalized budgets based on categories or overall spending and set  financial goals, such as saving for a vacation or paying off a debt, and tracks progress towards those goals."
+        />
         <div className="iphone-13-mini-01">
           <div className="paste-here-iphone-13-mini-1">
             <div className="paste-here-1">
@@ -62,7 +62,7 @@ const Services = () => {
                     <div className="investment">
                       Investment
                     </div>
-                  </div> 
+                  </div>
                   <div className="frame-427320716">
                     <div className="group-182">
                       <div className="applications-education-school-icon-256-x-256-qotofg-681">
@@ -215,17 +215,17 @@ const Services = () => {
                     </div>
                   </div>
                 </div>
-            
+
               </div>
-        
+
             </div>
-            
+
           </div>
           <img className="container2" src="/images/Bezel.png" />
         </div>
       </div>
       <div className="services-2">
-      <div className="iphone-13-mini-2">
+        <div className="iphone-13-mini-2">
           <div className="paste-here-iphone-13-mini-2">
             <div className="paste-here">
             </div>
@@ -279,25 +279,25 @@ const Services = () => {
                   </div>
                 </div>
               </div>
-          
+
             </div>
           </div>
 
           <img className="container-2" src="/images/Bezel.png" alt="Container Image" />
         </div>
         <ServiceContent
-        title="Bank integration, Financial Tracking and Insight"
-        description=" Our features help users automatically  link to bank account to reduce manual data entry and ensures data encryption and protection of sensitive financial information.we also  Presents financial data through charts and graphs for easy analysis and offers insights into spending patterns over time to identify areas for improvement."
-      />
-        
+          title="Bank integration, Financial Tracking and Insight"
+          description=" Our features help users automatically  link to bank account to reduce manual data entry and ensures data encryption and protection of sensitive financial information.we also  Presents financial data through charts and graphs for easy analysis and offers insights into spending patterns over time to identify areas for improvement."
+        />
+
       </div>
       <div className="services-3">
         <ServiceContent
-        title="Expense Tracking and Transaction Recording"
-        description="Users can categorize their expenses into different groups (e.g., groceries, entertainment, utilities) and Providing instant updates on transactions to help users stay on top of their spending and our features  allows users input individuals transactions specifying financial goals and providing insights into spending patrerns and financial health"
-      />
+          title="Expense Tracking and Transaction Recording"
+          description="Users can categorize their expenses into different groups (e.g., groceries, entertainment, utilities) and Providing instant updates on transactions to help users stay on top of their spending and our features  allows users input individuals transactions specifying financial goals and providing insights into spending patrerns and financial health"
+        />
         <div className="budget-11">
-        <img src="/images/Budget2.png" alt="Budget" />
+          <img src="/images/Budget2.png" alt="Budget" />
         </div>
       </div>
     </div>

@@ -4,13 +4,13 @@
     order: -1;
     width: 441px;
     height: 300px;
-    /* left: 35px; */
+    left: 30px;
     gap: 0px;
     border-radius: 10.72px;
 
   }
   .mission-desc{
-    font-size: 1.2rem;
+    font-size: 18px;
   }
 
 .m .learn-more-about-our-missions {
@@ -19,7 +19,7 @@
 }
   .landing-page-1 .mission {
     flex-direction: column;
-    padding: 0.6rem 1rem 4rem 2.5rem;
+    padding: 0.6rem 1.5rem 4rem 2.5rem;
     position: relative;
     /* Set position to relative */
     text-align: center;

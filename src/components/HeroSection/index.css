@@ -1,93 +1,4 @@
-@media only screen and (max-width: 768px) {
 
-  .frame-hero .group-27 {
-    display: none;
-  }
-
-  .hero-text .cta {
-    flex-direction: column;
-
-
-  }
-
- .frame-hero {
-  padding-bottom: 6rem;
-    display: flex;
-    flex-direction: column;
-    align-items: center; /* Center children horizontally */
-    justify-content: center; /* Center children vertically */
-    padding-top: 1rem; /* Adjust padding as needed */
-    flex-direction: column;
-
-  }
-
-  .hero-text {
-    margin-top: 20px;
-    text-align: center;
-  }
-
-  .frame-10 .download-app {
-    font-family: Lato;
-    font-size: 16px;
-    font-weight: 600;
-    line-height: 24px;
-    text-align: left;
-
-  }
-
-
-  .cta .frame-10,
-  .cta .cta-1 {
-    width: 280px;
-    margin: 0;
-    height: 56px;
-    padding: 10px;
-    gap: 10px;
-    border: 1px solid green;
-    display: flex;
-    justify-content: center;
-    border-radius: 34px;
-  }
-
-  .cta {
-    width: Hug (280px)px;
-    height: Hug (132px)px;
-    top: 329px;
-    left: 57px;
-    gap: 20px;
-  }
-
-  .frame-hero .frame-166 {
-    align-items: center;
-    text-align: center;
-    margin: 0 auto; /* Center the element horizontally */
-   
-  }
-
-  .hero-content {
-  align-items: center;
-    width: 80%;
-    font-family: Plus Jakarta Sans;
-    font-size: 18px;
-    font-weight: 400;
-    line-height: 27px;
-    text-align: center;
-    margin-bottom: 4rem;
-    display: flex;
-    flex-direction: column;
- 
-    box-sizing: border-box;
-    gap: 16px;
-
-
-  }
-
-  .frame-166 .the-ultimate-budgeting-companion , 
-  .frame-166 .the-ultimate-budgeting-companion-sub-10 
-  {
-    font-size: 28px;
-  }
-}
 
 .frame-hero {
  
@@ -579,4 +490,94 @@
 .frame-10:hover,
 .cta-1:hover {
   cursor: pointer;
+}
+@media only screen and (max-width: 768px) {
+
+  .frame-hero .group-27 {
+    display: none;
+  }
+
+  .hero-text .cta {
+    flex-direction: column;
+
+
+  }
+
+ .frame-hero {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center children horizontally */
+    justify-content: center; /* Center children vertically */
+    padding: 1.1rem 1.5rem 4.1rem 1.5rem;
+    flex-direction: column;
+
+  }
+
+  .hero-text {
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  .frame-10 .download-app {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+
+  }
+
+
+  .cta .frame-10,
+  .cta .cta-1 {
+    width: 280px;
+    margin: 0;
+    height: 56px;
+    padding: 10px;
+    gap: 10px;
+    border: 1px solid green;
+    display: flex;
+    justify-content: center;
+    border-radius: 34px;
+  }
+
+  .cta {
+    width: Hug (280px)px;
+    height: Hug (132px)px;
+    top: 329px;
+    left: 57px;
+    gap: 20px;
+  }
+
+  .frame-hero .frame-166 {
+    align-items: center;
+    text-align: center;
+    margin: 0 auto; /* Center the element horizontally */
+   
+  }
+
+  .hero-content {
+  align-items: center;
+    width: 80%;
+    font-family: Plus Jakarta Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: center;
+    margin-bottom: 4rem;
+    display: flex;
+    flex-direction: column;
+ 
+    box-sizing: border-box;
+    gap: 16px;
+
+
+  }
+
+  .frame-166 .the-ultimate-budgeting-companion , 
+  .frame-166 .the-ultimate-budgeting-companion-sub-10 
+  {
+    font-size: 28px;
+  }
 }
