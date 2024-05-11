@@ -10,7 +10,7 @@
   
 .card {
     /* margin-bottom: 2.3rem; */
-    margin: 0.6rem 2rem 0.3rem 0;
+    margin: 0;
     display: flex;
     overflow-x: hidden;
     flex-direction: row;
